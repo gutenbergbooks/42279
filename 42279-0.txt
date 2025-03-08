@@ -1,39 +1,4 @@
-The Project Gutenberg eBook, The Great Company, by Beckles Willson,
-Illustrated by Arthur Heming
-
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-
-
-
-Title: The Great Company
-       Being a History of the Honourable Company of Merchants-Adventurers Trading into Hudson's Bay
-
-
-Author: Beckles Willson
-
-
-
-Release Date: March 9, 2013  [eBook #42279]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-
-***START OF THE PROJECT GUTENBERG EBOOK THE GREAT COMPANY***
-
-
-E-text prepared by Melissa McDaniel and the Online Distributed
-Proofreading Team (http://www.pgdp.net) from page images generously made
-available by Internet Archive (https://archive.org)
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 42279 ***
 
 Note: Project Gutenberg also has an HTML version of this
       file which includes the numerous original illustrations.
@@ -126,7 +91,7 @@ faded away; remote forests were invaded by loyal subjects who erected
 the wilderness into opulent provinces. Change, unceasing, never-ending
 change, has marked the history of this hemisphere of ours; yet there
 is one force, one institution, which survived nearly all conditions
-and all _régimes_. For two full centuries the Hudson's Bay Company
+and all _rÃ©gimes_. For two full centuries the Hudson's Bay Company
 existed, unshorn of its greatness, and endures still--the one enduring
 pillar in the New World mansion.
 
@@ -372,7 +337,7 @@ CONTENTS.
 
      CHAPTER VII.--1671-1673.
 
-     Mission of the Père Albanel -- Apprehension at Fort Charles --
+     Mission of the PÃ¨re Albanel -- Apprehension at Fort Charles --
      Bailey's Distrust of Radisson -- Expedition to Moose River --
      Groseilliers and the Savages -- The Bushrangers Leave the
      Company's Service -- Arrival of Governor Lyddal.               69
@@ -453,7 +418,7 @@ CONTENTS.
      Bois_ -- Price of Peltries -- Standard of Trade Prescribed --
      Company's Conservatism -- Letters to Factors -- Character of
      the Early Governors -- Henry Kelsey -- York Factory under the
-     French -- Massacre of Jérémie's Men -- Starvation amongst the
+     French -- Massacre of JÃ©rÃ©mie's Men -- Starvation amongst the
      Indians.                                                      169
 
      CHAPTER XVI.--1697-1712.
@@ -556,7 +521,7 @@ CONTENTS.
      Company Suffers from the Rivalry of Canadians -- Cumberland
      House Built -- Debauchery and License of the Rivals --
      Frobisher Intercepts the Company's Indians -- The Smallpox
-     Visitation of 1781 -- La Pérouse appears before Fort Prince of
+     Visitation of 1781 -- La PÃ©rouse appears before Fort Prince of
      Wales -- Hearne's Surrender -- Capture of York Fort by the
      French -- The Post Burned and the Company's Servants carried
      away Prisoners.                                               314
@@ -570,7 +535,7 @@ CONTENTS.
 
      CHAPTER XXVIII.--1787-1808.
 
-     Captain Vancouver -- La Pérouse in the Pacific -- The Straits
+     Captain Vancouver -- La PÃ©rouse in the Pacific -- The Straits
      of Anian -- A Fantastic Episode -- Russian Hunters and Traders
      -- The Russian Company -- Dissensions amongst the Northmen --
      They Send the _Beaver_ to Hudson's Bay -- The Scheme of
@@ -590,7 +555,7 @@ CONTENTS.
 
      CHAPTER XXX.--1812-1815.
 
-     The Bois-Brulés -- Simon McGillivray's Letter -- Frightening
+     The Bois-BrulÃ©s -- Simon McGillivray's Letter -- Frightening
      the Settlers -- A Second Brigade -- Governor McDonnell's
      Manifesto -- Defection of Northmen to the Company --
      Robertson's Expedition to Athabasca -- Affairs at Red River --
@@ -603,7 +568,7 @@ CONTENTS.
 
      A New Brigade of Immigrants -- Robert Semple -- Cuthbert
      Grant's Letter -- The De Meuron Regiment -- Assembling of the
-     Bois-Brulés -- Tragedy at Seven Oaks -- Selkirk at Fort William
+     Bois-BrulÃ©s -- Tragedy at Seven Oaks -- Selkirk at Fort William
      -- McGillivray Arrested -- Arrest of the Northmen -- Selkirk
      Proceeds to Red River.                                        404
 
@@ -701,7 +666,7 @@ LIST OF ILLUSTRATIONS.
 
      Marching out of the English Garrison                          160
 
-     The Massacre of Jérémie's Men                                 192
+     The Massacre of JÃ©rÃ©mie's Men                                 192
 
      The Bushranger and the Indians                                337
 
@@ -808,7 +773,7 @@ LIST OF ILLUSTRATIONS.
 
      Stornaway                                                     380
 
-     A Bois-Brulé                                                  384
+     A Bois-BrulÃ©                                                  384
 
      Fort George (Astoria)                                         387
 
@@ -996,7 +961,7 @@ by individual traders acting without authority.
 
 Such, in brief, was the state of affairs in the year 1666 when two
 intrepid bushrangers, employees of the old Company,[4] dissatisfied
-with their prospects under the new _régime_, sought their way out from
+with their prospects under the new _rÃ©gime_, sought their way out from
 the depths of the wilderness to Quebec, and there propounded to the
 Intendant, Jean Talon, a scheme for the extension of the fur-trade to
 the shores of Hudson's Bay. This enterprising pair saw their project
@@ -1057,7 +1022,7 @@ and their Beaver Company. From 1640 to 1670 these discoveries and
 trading settlements had considerably increased in number and
 importance.
 
-[4] In 1663 the charter of the Compagnie des Cents Assocés, granted by
+[4] In 1663 the charter of the Compagnie des Cents AssocÃ©s, granted by
 Richelieu in 1627, was ceded to the Crown. In 1665 the new Association
 "La Compagnie des Indes Occidentals" received its charter.
 
@@ -1109,7 +1074,7 @@ beyond the seas; and so strongly did these anecdotes, with their
 suggestion of a rough and joyous career in the wilderness, appeal to
 his nature, that he determined to take his own part in the glowing
 life which the priest depicted. In 1641 he was one of the fifty-two
-_emigrés_ who sailed with the heroic Maissoneuve from Rochelle. Five
+_emigrÃ©s_ who sailed with the heroic Maissoneuve from Rochelle. Five
 years later we find him trading amongst the Hurons, the tribe whose
 doom was already sealed by reason of the enmity and superior might of
 the Iroquois; and at the close of another year comes the record of his
@@ -1171,7 +1136,7 @@ With this introduction to the characters of the two remarkable men
 whose fortunes were to become so closely entwined with that of the
 Hudson's Bay Company, we may pass to their early efforts to extend the
 fur-trade beyond those limits which the distracted and narrow-minded
-officers of the Compagnie des Cent Assocés, thought it necessary to
+officers of the Compagnie des Cent AssocÃ©s, thought it necessary to
 observe.
 
 Reaching the shore of Lake Superior in the early summer of 1659,
@@ -1226,12 +1191,12 @@ On the eve of his departure the Jesuit Fathers, distrusting
 Groseilliers' religious proclivities and suspecting that he might
 attempt to influence the Assiniboines, insisted upon one of their
 number accompanying him. The priest chosen for this arduous mission
-was the aged missionary Réné Ménard, who, in spite of his physical
+was the aged missionary RÃ©nÃ© MÃ©nard, who, in spite of his physical
 frailty was still undaunted by any prospect of peril; though he was,
-on this occasion, prevailed upon to allow his servant Guérin to
+on this occasion, prevailed upon to allow his servant GuÃ©rin to
 accompany him. It was the priest's last journey. When Groseilliers
 again reached Montreal, after a season in the wilderness as prosperous
-as its forerunner, he bore the mournful news that Ménard had been
+as its forerunner, he bore the mournful news that MÃ©nard had been
 massacred and his body, beyond question, devoured by a fierce band of
 Indians.
 
@@ -2272,7 +2237,7 @@ and entered Hudson's Bay. For this assertion one is unable to find any
 historical support; certainly no record of any kind exists of such a
 voyage. There is a record in 1655, it is true, that Sieur Bourdon,
 then Attorney-General, was authorized to make a discovery of _Mer du
-Nord_; and in order to comply with that _arrét_ of the Sovereign
+Nord_; and in order to comply with that _arrÃ©t_ of the Sovereign
 Council at Quebec, he actually made an attempt at such discovery.
 Bourdon left Quebec on May 2nd, 1657, and an entry in the records
 proves his return on August 11th of the same year. It is manifestly
@@ -2369,7 +2334,7 @@ the Jesuits and trusted by them. He subsequently accompanied Father
 Jacques on an embassy to Governor Dongan, the Governor of the Province
 of New York.
 
-In Shea's _Charlevoix_, Vol. III, pp. 39, 40, it is stated that Père
+In Shea's _Charlevoix_, Vol. III, pp. 39, 40, it is stated that PÃ¨re
 Dablon attempted to penetrate to the northern ocean by ascending the
 Saguenay. Early in June, two months after they set out, they found
 themselves at the head of the Nekauba river, 300 miles from Lake St.
@@ -2511,7 +2476,7 @@ both commonly and cheaply given in those days. Even where
 consideration was given, the amount was insignificant. In 1668, for
 example, Charles transferred the province of Bombay, which had come to
 the British Crown as portion of the dower of Catherine of Braganza, to
-the East India Company for an annual rent of no more than £10. On the
+the East India Company for an annual rent of no more than Â£10. On the
 whole then the data, such as they are, strongly favour the belief that
 he granted the charter simply in the cause of friendship and at the
 urgent instance of his cousin; while, as an additional motive, it was
@@ -2671,13 +2636,13 @@ that when, in the course of the Parliamentary Committee of Enquiry in
 1749, nearly eighty years after the Company had received its charter,
 the figures were divulged, the pettiness of the sum occasioned
 universal surprise. Each adventurer was apparently required to pay
-£300, sterling; and the gross sum was divided into thirty-four equal
+Â£300, sterling; and the gross sum was divided into thirty-four equal
 shares. Besides Prince Rupert's "sundry charges" (the euphemism
 employed to describe the sum paid him for his interest in obtaining
 the charter), his Highness was offered a share amounting to one equal
 share. "He having graciously signified his acceptance thereof," says
 the secretary in the minute-book, "credit given him for three hundred
-pounds." The capital thus stood at £10,500.
+pounds." The capital thus stood at Â£10,500.
 
 FOOTNOTE:
 
@@ -2697,7 +2662,7 @@ CHAPTER VII.
 
 1671-1673.
 
-     Mission of the Père Albanel -- Apprehension at Fort Charles --
+     Mission of the PÃ¨re Albanel -- Apprehension at Fort Charles --
      Bailey's Distrust of Radisson -- Expedition to Moose River --
      Groseilliers and the Savages -- The Bushrangers Leave the
      Company's Service -- Arrival of Governor Lyddal.
@@ -2975,7 +2940,7 @@ quantity of beaver and induce the Upland tribes to travel thence.
 Hardly had the sloop departed than, on the 27th, it ran upon a mass of
 floating ice and narrowly escaped foundering. This catastrophe
 precipitated the Governor's return to Rupert's River. He arrived to
-find Groseilliers and his protégé Gorst at daggers drawn, and the
+find Groseilliers and his protÃ©gÃ© Gorst at daggers drawn, and the
 factors, traders and sailors almost at the point of mutiny, and all
 this because they objected to serve under a Frenchman.
 
@@ -3318,7 +3283,7 @@ vessel belonging to the Government of Acadia, which at that moment
 lay in the St. Lawrence ready to sail.
 
 It was arranged privately that after his departure Radisson should
-proceed in this vessel only as far as Isle Percée in the Gulf, near
+proceed in this vessel only as far as Isle PercÃ©e in the Gulf, near
 the mouth of the river, and there await his kinsmen Groseilliers, his
 nephew Chouart, and the two ships which La Chesnaye was even then
 busily fitting out. Thus all official cognizance of the expedition
@@ -4337,7 +4302,7 @@ terms:--
 
 This private note was signed by Sir John Hays and Mr. Young on behalf
 of the Company. On its receipt by Lord Preston, he at once sent his
-attaché, Captain Godey, to seek out Radisson and make overtures to
+attachÃ©, Captain Godey, to seek out Radisson and make overtures to
 him. On the third floor of a house in the Faubourg St. Antoine,
 surrounded by a number of his relations and boon companions, the
 dual traitor was discovered, deeply engaged in drinking healths and in
@@ -4360,7 +4325,7 @@ presented by this uncouth, adventurous Huguenot, not merely in the
 seclusion of his own lodgings, but to the polished and civilized folk
 of Paris of the seventeenth century. What were the projects harboured
 in this indomitable man's mind? In spite of his persistent intrigues
-it is to be doubted if he, any more than Médard Chouart des
+it is to be doubted if he, any more than MÃ©dard Chouart des
 Groseilliers, was animated by more than a desire to pursue an exciting
 and adventurous career. Habitually holding out for the best terms, he
 does not appear to have saved money when it was acquired, but spent it
@@ -4479,7 +4444,7 @@ attendant on the minister or his subordinates of the Department of
 Marine and Commerce. He was not always favoured with an audience; but
 when listened to spoke vaguely of fitting out and equipping vessels
 for trade on voyages similar to those he had already undertaken. His
-_naiveté_, to use no harsher term, is remarkable.
+_naivetÃ©_, to use no harsher term, is remarkable.
 
 "In order," says he, "that they should not suspect anything by my
 sudden absence, I told them I was obliged to take a short trip into
@@ -4675,7 +4640,7 @@ customary ceremonies. This formidable chief, who had been at war with
 a neighbouring tribe at the time of his adopted son's arrival in the
 country, now put in an appearance. Instead of the joy Radisson
 expected it was with reproaches that he was greeted. Ka-chou-touay
-informed him that a brother chief of his, named La Barbé, with one of
+informed him that a brother chief of his, named La BarbÃ©, with one of
 his sons, had been killed while expostulating with a party of English.
 The consequences of this rash action might be so grave that Radisson
 felt it to be his duty to resort to the Governor and demand that his
@@ -4827,8 +4792,8 @@ presented the despatches in which the Governor had urged him to use
 every endeavour in forwarding letters to Chouart, at Nelson River.
 
 "To carry out your instructions," wrote Duluth, "there was only
-Monsieur Péré, who would have to go himself, the savages having all at
-that time withdrawn into the interior." He added that Péré had left
+Monsieur PÃ©rÃ©, who would have to go himself, the savages having all at
+that time withdrawn into the interior." He added that PÃ©rÃ© had left
 during the previous month, and doubtless at that time had accomplished
 his mission. Duluth invariably expressed himself with great confidence
 on the subject of the implicit trust which the savages reposed in him.
@@ -4879,7 +4844,7 @@ one of the Company's servants, "were rendered as firm and binding as
 the Indians themselves could make them. Ceremonies of the most solemn
 and sacred character accompanied them."
 
-Duluth had already built a fort near the River à la Maune, at the
+Duluth had already built a fort near the River Ã  la Maune, at the
 bottom of Lake Nepigon, and thither he expected at least six of the
 northern nations to resort in the spring. Lest this should not be
 sufficient for the purpose he designed building another in the
@@ -5022,7 +4987,7 @@ only twenty-five, was to bear an enduring distinction in the annals of
 France as one of her most able and intrepid naval commanders. This was
 the Sieur d'Iberville. His brothers, taking their names, as he had
 done, from places in their native land, were called the Sieurs de
-Sainte Hèlène and de Marincourt. Thirty soldiers were directly
+Sainte HÃ¨lÃ¨ne and de Marincourt. Thirty soldiers were directly
 attached to the Chevalier's command, veterans who had, almost to a
 man, seen service in one or other of the great European wars. That
 they might not be without the ministrations of religion, Father
@@ -5134,7 +5099,7 @@ extremely difficult and in places almost impassable. A shallop was
 constructed to carry a couple of small cannon, and on the 25th of June
 Troyes left for Fort Rupert.
 
-St. Hèlène was sent on in advance to reconnoitre the establishment. He
+St. HÃ¨lÃ¨ne was sent on in advance to reconnoitre the establishment. He
 returned with the information that it was a square structure, flanked
 by four bastions, but that all was in a state of confusion owing to
 repairs and additions then being made to the fort. The cannon had not
@@ -5149,7 +5114,7 @@ Four of the English were killed.
 After this exploit Iberville came ashore, rejoined his superior and
 overpowered the almost defenceless garrison of Fort Rupert.
 
-The French forces now united, and St Hèlène having been as successful
+The French forces now united, and St HÃ¨lÃ¨ne having been as successful
 as his brother in securing the second of the Company's ships, all
 embarked and sailed for the remaining post of the Company in that part
 of the Bay.
@@ -5562,7 +5527,7 @@ suffered at the hands of the French in time of peace.
 in full peace between 1682 and 1688, seven ships with their cargoes,
 and six forts and factories, from which they carried away great stores
 of goods laid up for trading with the Indians. The whole amounts to
-£38,332 15s."
+Â£38,332 15s."
 
 To such effect was this memorial presented to the King that William
 caused the hostile proceedings of Lewis in the Company's territory to
@@ -5600,8 +5565,8 @@ asked for no longer period. The proceeding was no secret; it was done
 openly. Parliament made but one stipulation, and that at the instance
 of the Felt-makers' Company; that the adventurers "should be obliged
 to make at least two sales of 'coat beaver' annually, and not
-exceeding four. These should be proportioned in lotts of about £100
-sterling each, and not exceeding £200. In the intervals of public
+exceeding four. These should be proportioned in lotts of about Â£100
+sterling each, and not exceeding Â£200. In the intervals of public
 sales the Company should be debarred from selling beaver by private
 Contract, or at any price than was sett up at the last Publick sale."
 
@@ -5614,7 +5579,7 @@ confirmation; there being none, save the Felt-makers, to oppose it.
 [Sidenote: The Company increases its capital.]
 
 The charter being confirmed, it was decided that the nominal capital
-of the Company should be increased to £31,500, several good reasons
+of the Company should be increased to Â£31,500, several good reasons
 being put forward in committee for thus trebling the stock. These
 reasons are quaintly enumerated as follows:
 
@@ -5746,7 +5711,7 @@ were absent from the fort on a hunting expedition, it seemed to the
 Governor that armed resistance would be futile. Rather, therefore,
 than allow the fort to pass again into the hands of the French under
 circumstances so humiliating, he resolved to burn it, together with a
-large part of its merchandise, valued at about £8,000, well knowing
+large part of its merchandise, valued at about Â£8,000, well knowing
 that without the merchandise the French could not procure furs from
 the Indians.
 
@@ -5855,7 +5820,7 @@ winter, before returning to France.
 On the 20th of the following July, Iberville departed for the straits
 in his two vessels, the _Poli_ and _Salamandre_. He left sixty-seven
 men under the command of La Forest. Martigny became lieutenant, and
-Jérémie was appointed ensign, with the additional functions of
+JÃ©rÃ©mie was appointed ensign, with the additional functions of
 interpreter and "director of commerce."
 
 La Forest and his men were not long to enjoy security of trade and
@@ -5912,7 +5877,7 @@ consideration in which the London Company was held by the French.
 noblemen of the first quality; and it is known that the King himself
 is part proprietor, having succeeded to that emolument with the other
 belongings to King James II. So great are its profits that each member
-is worth at least £5,000 English sterling above what he was before he
+is worth at least Â£5,000 English sterling above what he was before he
 embarked in the fur traffic. There can be no secrecy about its
 intention, which is to subvert and subjugate the whole northern
 Country to its sway."
@@ -5937,20 +5902,20 @@ be taken out of the poor-box." This is sufficiently strong evidence of
 the state into which the Company had fallen.
 
 [27] To illustrate the divergence of authorities in such matters, I
-may mention that while Jérémie, who took part in this expedition,
+may mention that while JÃ©rÃ©mie, who took part in this expedition,
 calls the two ships the _Poli_ and _Charente_, in which he is followed
-by Abbé Ferland. Father Marest, the aumonier of the crew, refers to
+by AbbÃ© Ferland. Father Marest, the aumonier of the crew, refers to
 the second ship as the _Salamandre_. His relation is entitled "Le
 Voyage du _Poli_ et _Salamandre_." In the letter of Frontenac to the
 French minister (November 5, 1694) it is stated that Serigny commanded
 the _Salamandre_. _La Potherie_ observes that the ships sent out in
 1694 were the _Poli_ and _Salamandre_. Furthermore, he declares, they
-sailed the 8th of August; Frontenac states the 9th, and Jérémie the
-10th (_Jour de St. Laurent_). _La Potherie_ and Jérémie agree on the
+sailed the 8th of August; Frontenac states the 9th, and JÃ©rÃ©mie the
+10th (_Jour de St. Laurent_). _La Potherie_ and JÃ©rÃ©mie agree on the
 date of their arrival, September 24th, although Ferland says it was
 the 20th.
 
-[28] Jérémie gives us a detailed description of the fort in his
+[28] JÃ©rÃ©mie gives us a detailed description of the fort in his
 "Relation." He says it was composed of four bastions, which formed a
 square of thirty feet, with a large stone house above and below. In
 one of these bastions was the storeroom for furs and merchandise,
@@ -6071,7 +6036,7 @@ having been participants in the conquest of the previous year. The
 Company's fleet entered the straits only forty hours before the ships
 of the French; and like them was much impeded by the ice, which was
 unusually troublesome. Passage was made by the enemy in the English
-wake. The _Profound_, commanded by Duqué, pushed past the currents,
+wake. The _Profound_, commanded by DuquÃ©, pushed past the currents,
 taking a northerly course, which brought her commander into full view
 of two of the Company's ships. Shots were exchanged; but owing to the
 difficulties engendered by the ice, it was impossible to manoeuvre
@@ -6256,7 +6221,7 @@ the wreck of the _Hudson's Bay_ continued all day to find their way to
 the fort, but several reached it only to be shot down in mistake by
 the cannon and muskets of their own men. On the 12th, after a hot
 skirmish, fatal to both sides, the Governor was again requested, this
-time by Sérigny, to yield up the fort to superior numbers.
+time by SÃ©rigny, to yield up the fort to superior numbers.
 
 "If you refuse we will set fire to the place, and accord you no
 quarter," was the French ultimatum.
@@ -6281,7 +6246,7 @@ air with a frightful din, borrowing from the Iroquois their piercing
 war-cries. In one of these sallies St. Martin, one of their bravest
 men, perished.
 
-Under protection of a flag of truce, Sérigny came again to demand a
+Under protection of a flag of truce, SÃ©rigny came again to demand a
 surrender. It was the last time, he said, the request would be
 preferred. A general assault had been resolved upon by the enemy, who
 were at their last resort, living like beasts in the wood, feeding on
@@ -6346,11 +6311,11 @@ battles of the war.
 "Toute la Marine de Rochefort croient que ce combat a ete un des plus
 rudes de cette Guerre," says La Potherie.
 
-[34] "Ils avoient de tres habile cannoniers," Jérémie, an eye-witness,
+[34] "Ils avoient de tres habile cannoniers," JÃ©rÃ©mie, an eye-witness,
 was forced to confess.
 
 [35] "Ainsi le dernier poste," Garneau exclaims, "que les English
-avaient dans le baie d'Hudson tombé en notre pouvoir, et la France
+avaient dans le baie d'Hudson tombÃ© en notre pouvoir, et la France
 resta seule maitresse de cette region." (Tome II., p. 137.)
 
 But Garneau overlooked the three forts in James' Bay retaken by the
@@ -6390,7 +6355,7 @@ CHAPTER XV.
      -- Price of Peltries -- Standard of Trade Prescribed --
      Company's Conservatism -- Letters to Factors -- Character of
      the Early Governors -- Henry Kelsey -- York Factory under the
-     French -- Massacre of Jérémie's Men -- Starvation amongst the
+     French -- Massacre of JÃ©rÃ©mie's Men -- Starvation amongst the
      Indians.
 
 
@@ -6508,8 +6473,8 @@ character, the contemplation of the sufferings and privations he had
 undergone to acquire his string of beads, his blanket, or his hatchet,
 must have aroused in him all his fund of pessimism.
 
-In 1676 the value of the merchandise exported did not exceed £650
-sterling. The value of the furs imported was close upon £19,000.
+In 1676 the value of the merchandise exported did not exceed Â£650
+sterling. The value of the furs imported was close upon Â£19,000.
 
   [Illustration: A "COUREUR DES BOIS."]
 
@@ -6591,10 +6556,10 @@ reason of danger and want of encouragement. The danger, we judge, is
 not more now than formerly; and for their encouragement we shall
 plentifully reward them, when we find they deserve it by bringing down
 Indians to our factories, of which you may assure them. We judge
-Robert Sandford a fit person to travel, having the linguæ and
+Robert Sandford a fit person to travel, having the linguÃ¦ and
 understanding the trade of the country; and upon a promise of Mr.
 Young (one of our Adventurers) that he should travel, for which
-reason we have advanced his wages to £30 per annum, and Mr. Arrington,
+reason we have advanced his wages to Â£30 per annum, and Mr. Arrington,
 called in the Bay, Red-Cap, whom we have again entertained in our
 service; as also John Vincent, both which we do also judge fit persons
 for you to send up into the country to bring down trade." To this the
@@ -6788,7 +6753,7 @@ spirit of true prophecy, "must work some terror amongst them."
 [Sidenote: The French at Michilimackinac.]
 
 A potent cause contributed to the lack of prosperity which marked Port
-Nelson under the French _régime_. It was the exploitation of the west
+Nelson under the French _rÃ©gime_. It was the exploitation of the west
 by an army of traders and bushrangers. The new post of Michilimackinac
 had assumed all the importance as a fur-trading centre which had
 formerly belonged to Montreal. The French, too, were served by capable
@@ -6802,7 +6767,7 @@ suppression of the _coureur de bois_. "No Frenchmen," he declared,
 to keep them hunters, as is seen in Canada; and when they are in the
 woods they do not desire to become tillers of the soil."
 
-At the same time the value of the bushrangers to the French _régime_
+At the same time the value of the bushrangers to the French _rÃ©gime_
 was considerable in damaging the English on the Bay.
 
 "It is certain," observed one of their defenders, "that if the
@@ -6839,7 +6804,7 @@ rule.
 
 There is one romantic episode which belongs to this period, serving to
 relieve by its vivid, perhaps too vivid, colouring, the long
-sombreness of the French _régime_. It was the visit in 1704 of an
+sombreness of the French _rÃ©gime_. It was the visit in 1704 of an
 officer named Lagrange and his suite from France. In the train of this
 banished courtier came a number of gallant youths and fair courtesans;
 and for one brief season Fort Bourbon rang with laughter and revelry.
@@ -6849,7 +6814,7 @@ quiet English servants and Scotch clerks snatched a glimpse, in their
 sleeping or waking dreams, of those mad revels, a voluptuous scene
 amidst an environment so sullen and sombre?
 
-In the year 1707 Jérémie, the lieutenant, obtained permission of the
+In the year 1707 JÃ©rÃ©mie, the lieutenant, obtained permission of the
 Company to return to France on leave. He succeeded in obtaining at
 court his nomination to the post of successor to the then commandant,
 Delisle. After a year's absence he returned to Port Nelson, to find
@@ -6858,18 +6823,18 @@ stores and ammunition were lacking. A few days after his arrival,
 Delisle was taken seriously ill, and expired from the effects of cold
 and exposure.
 
-For a period of six years Jérémie continued to govern Fort Bourbon,
+For a period of six years JÃ©rÃ©mie continued to govern Fort Bourbon,
 receiving his commission not from the Company but direct from the King
 himself, a fact of which he seems very proud.
 
-Jérémie's tenure of office was marked by a bloody affair, which
+JÃ©rÃ©mie's tenure of office was marked by a bloody affair, which
 fortunately had but few parallels under either English or French
 occupation. Although the tribes in the neighbourhood were friendly and
 docile, they were still capable, upon provocation, to rival those
 Iroquois who were a constant source of terror to the New England
 settlers.
 
-In August, 1708, Jérémie sent his lieutenant, two traders and six
+In August, 1708, JÃ©rÃ©mie sent his lieutenant, two traders and six
 picked men of his garrison to hunt for provisions. They camped at
 nightfall near a band of savages who had long fasted and lacked
 powder, which, owing to its scarcity, the French did not dare give
@@ -6913,7 +6878,7 @@ defend both of the French establishments. He therefore withdrew the
 men hastily from the little Fort Philipeaux near by, and none too
 quickly, for the Indians came immediately before it. Finding nobody in
 charge they wrought a speedy and vigorous pillage, taking many pounds
-of powder which Jérémie had not had time to transfer to Bourbon.
+of powder which JÃ©rÃ©mie had not had time to transfer to Bourbon.
 
 The condition of the French during the winter of 1708-9 was pitiable
 in the extreme. Surrounded by starving, blood-thirsty savages, with
@@ -7160,8 +7125,8 @@ The scarcity of servants seems to have continued. In the following
 year greater bribes were resorted to. "Captain Mounslow was now
 ordered to provide fifteen or sixteen young able men to go to H. B.
 This expedition for five years, which he may promise to have wages,
-viz.: £8 the 1st year; £10 the 2nd; £12 the 3rd and £14 for the two
-last years, and to be advanced £3 each before they depart from
+viz.: Â£8 the 1st year; Â£10 the 2nd; Â£12 the 3rd and Â£14 for the two
+last years, and to be advanced Â£3 each before they depart from
 Gravesend." The result of this was that in June, 1711, the first batch
 of these servants came aboard the Company's ship at Stromness. But
 they were not destined to sail away to the Bay in their full numbers.
@@ -7253,7 +7218,7 @@ of their commerce than furs.
 your petitioners have not been able to begin a trade, by reason of the
 interruptions they have met with from the French) as of whale-bone,
 whale-oil (of which last your subjects now purchase from Holland and
-Germany to the value of £26,000 per annum, which may be had in your
+Germany to the value of Â£26,000 per annum, which may be had in your
 own dominions), besides many other valuable commodities, which in time
 may be discovered."
 
@@ -7272,7 +7237,7 @@ to their breed of seamen.
      posts and settlements erected by the French, or which are now
      in their possession, as likewise not to sail any ships or
      vessels within the limits of the Company's charter, and to make
-     restitution of the £108,514, 19s. 8d., of which they robbed and
+     restitution of the Â£108,514, 19s. 8d., of which they robbed and
      despoiled your petitioners in times of perfect amity between
      the two Kingdoms.
 
@@ -7301,7 +7266,7 @@ request.
      beyond the limits hereinafter mentioned.
 
      That the said limits began from the island called Grimington's
-     Island, or Cape Perdrix, in the latitude of 58½° north, which
+     Island, or Cape Perdrix, in the latitude of 58Â½Â° north, which
      they desire may be the boundary between the English and the
      French, on the coast of Labrador, towards Rupert's Land, on the
      east main, and Novia Britannia on the French side, and that no
@@ -7437,7 +7402,7 @@ his heirs up to 1746.
 has a nephew in the Orkneys, to write to him to provide fifteen or
 sixteen young men, about twenty years old, to be entertained by the
 Company, to serve them for four years in Hudson's Bay, at the rate of
-£6 per annum, the wages formerly given by the Company.--From the
+Â£6 per annum, the wages formerly given by the Company.--From the
 Company's Order Book, 29th February, 1710.
 
 [45] "This country," it was remarked in 1710, "is composed of persons
@@ -7511,7 +7476,7 @@ appear by a true and exact estimate that the French took from the
 Company in full peace between 1682 and 1688 seven ships, with their
 cargoes, and six forts and caches in which were carried away great
 stores of goods laid up for trading with the Indians. The whole
-amounts to £38,332 15s., and £62,210 18s. 9d. interest, computed to
+amounts to Â£38,332 15s., and Â£62,210 18s. 9d. interest, computed to
 1713."
 
 [Sidenote: Company's claim for compensation.]
@@ -7523,7 +7488,7 @@ writing the demands of the Co. for damages rec'd from the French in
 times of peace pursuant to the 10th & 11th Articles of the Treaty of
 Utrecht. Upon which the Secretary is ordered to Copy out the Abstract
 of the whole damage sustained, amounting to with Interest the sum of
-£100,543-13-9; as likewise the particulars in these small volumes in
+Â£100,543-13-9; as likewise the particulars in these small volumes in
 order to present the same to the Commission of Trade on Wednesday
 next."
 
@@ -7543,7 +7508,7 @@ Marquis de Vaudreuil, Governor of Canada, the latter was directed to
 yield the forts and settlements belonging to the Hudson's Bay Company:
 "But this order the Merchants thought would hardly fulfil their
 requirements. They were despatching two ships to the Bay. It would
-therefore be better if his grace obtained direct order to M. Jérémie
+therefore be better if his grace obtained direct order to M. JÃ©rÃ©mie
 in duplicate."
 
 [Sidenote: No Act of Cession.]
@@ -7570,12 +7535,12 @@ constituting him Governor under the Company, and Mr. H. Kelsey, Deputy
 Governor of the Bay and Straits of Hudson, aforesaid."
 
 Knight took with him, likewise, "the French King's order under his
-hand and seal, to Mons. Jérémie, Commander at York Fort, to deliver
+hand and seal, to Mons. JÃ©rÃ©mie, Commander at York Fort, to deliver
 the same to whom Her Majesty should appoint, pursuant to the Treaty of
 Utrick."
 
 Knight's eyes, now dimmed with age, were gladdened by the sight of
-Port Nelson, on the 25th of July. Jérémie was already advised by the
+Port Nelson, on the 25th of July. JÃ©rÃ©mie was already advised by the
 French ship, and no time was lost in evacuation. A bargain was made
 for such buildings and effects as the French had no further use for,
 which had been beforehand arranged. "From his particular regard for
@@ -7619,7 +7584,7 @@ Nevertheless matters dragged on, and it was not until 1719 that a
 practical movement was made. On the 3rd of September of that year,
 Daniel Pulteney and Martin Bladen, Lords of Trade, were appointed
 Commissioners in response to the appointment by Lewis of the Mareschal
-Comte d'Estrees and the Abbé Dubois, Minister and Secretary of State.
+Comte d'Estrees and the AbbÃ© Dubois, Minister and Secretary of State.
 Pulteney was an Indian merchant, and Bladen had been an officer in the
 army.
 
@@ -7653,13 +7618,13 @@ The Commissioners finally met. Perhaps it would be a pity if Bladen's
 own quaint account of what followed were allowed to perish:--
 
      On Saturday last, my Lord Stair and I met Marechal d'Estrees
-     and Abbé Dubois. Our time was spent in preparatory discourses
+     and AbbÃ© Dubois. Our time was spent in preparatory discourses
      concerning the intent of the 10th article of the Treaty of
      Utrecht, relating to the boundaries of Hudson's Bay; and at our
      next meeting, which will be to-morrow at my Lord Stair's House,
      we design to give in the claim of the Hudson's Bay Company, in
      writing, with some few additions pretty material for their
-     service, in case the Abbé Dubois his health will allow him to
+     service, in case the AbbÃ© Dubois his health will allow him to
      be there, which I fear it will not, for he is confined at
      present to his bed.
 
@@ -7895,7 +7860,7 @@ the Company's directors, who were victims of the South Sea fever.
 The South Sea Company, whose extraordinary success gave rise to a
 thousand joint stock enterprises equally unsound and fatuous, owed its
 origin to Harley, Earl of Oxford, in 1711, who in return for the
-acceptance of a government debt of £10,000,000 granted to a number of
+acceptance of a government debt of Â£10,000,000 granted to a number of
 merchants a monopoly of the trade to the South Seas.
 
 At that time the most extravagant ideas prevailed concerning the
@@ -7915,7 +7880,7 @@ Mississippi Bubble burst, ruining thousands, but, far from being
 alarmed at this catastrophe, it was universally believed that Law's
 scheme was sound, but had been wrecked through unwise methods. In May,
 1720, the South Sea Company proposed to take upon themselves the
-entire national debt of upwards of £30,000,000 upon a guarantee of
+entire national debt of upwards of Â£30,000,000 upon a guarantee of
 five per cent. per annum for seven and one-half years, at the end of
 which period the debt might be redeemed if the Government chose, or
 the interest reduced to four per cent. The nation was dazzled;
@@ -7929,7 +7894,7 @@ South Sea directors. Until then the scheme had been honestly promoted;
 but the prospect of enormous wealth was too near to be permitted to
 escape. It became thenceforward, until the crash, the prime object of
 the directors, at no matter what cost or scruple, to maintain the
-fictitious value of the shares. By May 28, £100 shares were quoted at
+fictitious value of the shares. By May 28, Â£100 shares were quoted at
 550; three days later they had reached 890. The whole nation caught
 the fever; the steadiest merchants turned gamblers. Hardly a day
 passed without a new swindling concern being started as a joint stock
@@ -7960,11 +7925,11 @@ the publick taste, and we are told it cannot fail to be."
 
 It was late in August before the scheme was detailed. It was explained
 that the Company's assets in quick and dead stock and lands were
-£94,500. With this as a basis, it was proposed to enlarge the stock to
-the sum of £378,000, dividing this into 3,780 shares of £100 each.
+Â£94,500. With this as a basis, it was proposed to enlarge the stock to
+the sum of Â£378,000, dividing this into 3,780 shares of Â£100 each.
 Before this could be carried out, however, the existing stock, being
-but £31,500, or 315 shares, was to be made and reckoned 945 shares of
-£100 value each. By such means a result of £94,500 actual capital
+but Â£31,500, or 315 shares, was to be made and reckoned 945 shares of
+Â£100 value each. By such means a result of Â£94,500 actual capital
 would appear. A majority of partners favoured the scheme, and the
 proposal was carried amidst the greatest enthusiasm. Its purpose was
 to unload the stock at an inflated figure, far even in excess of that
@@ -7981,7 +7946,7 @@ stock had attained high-water mark, and so many holders rushed to
 realize that the price fell, on June 3rd, to 640. The directors were
 not yet ready for their _coup_. Agents were despatched by them to buy
 up and support the market, and the result was that by nightfall of
-that day the quoted price was £750. By means of this and similarly
+that day the quoted price was Â£750. By means of this and similarly
 unscrupulous devices, the shares were sent, early in August, to 1,000.
 This was the long-awaited opportunity. Many of the directors sold out;
 a general anxiety began to prevail and the shares began to drop. In
@@ -8001,8 +7966,8 @@ taken off from the said instrument."
 
 Nevertheless one permanent result remained. The capital had been
 trebled, and it was now further resolved that each subscriber should
-have £30 of stock "for each £10 by him paid in." This trebled, the
-total capital stood, at the beginning of 1721, at £94,500.
+have Â£30 of stock "for each Â£10 by him paid in." This trebled, the
+total capital stood, at the beginning of 1721, at Â£94,500.
 
 The Company had had a narrow escape. To what extent its shares would
 have been inflated may be conjectured; but it is certain that it could
@@ -8205,13 +8170,13 @@ Chevalier de Troyes and ninety of his companions perished to a man.
 But the Red men of the Company's territories, compared to these, were
 pacific. Occasionally want or deep injustice drove them to acts of
 barbarism, as we have seen in the case of the massacre at York Factory
-under Jérémie's _régime_; but on the whole they had no marked enmity
+under JÃ©rÃ©mie's _rÃ©gime_; but on the whole they had no marked enmity
 to the white men, and long displayed a remarkable and extremely
 welcome docility.
 
 [Sidenote: Character of the Assiniboines.]
 
-"The Assinibouels," remarked Jérémie, "are humane and affable; and so
+"The Assinibouels," remarked JÃ©rÃ©mie, "are humane and affable; and so
 are also all those Indians with whom we have commerce in the Bay,
 never trading with the French but as their fathers and patrons.
 Although savages, they are foes to lying, which is extraordinary in
@@ -8238,7 +8203,7 @@ also came to be known as the Fall Indians.
 
 [Sidenote: Indian country.]
 
-Jérémie observed that the Ouinebigonnolinis inhabited the sea-coast.
+JÃ©rÃ©mie observed that the Ouinebigonnolinis inhabited the sea-coast.
 The Poaourinagou country was inhabited by the Miskogonhirines or
 Savannah, who made war with the Hakouchirmions. Twelve leagues above
 York Factory was situated the River Oujuragatchousibi, while far
@@ -9168,7 +9133,7 @@ gentleman of some means and of scientific bent, made formal
 application to the Hudson's Bay Company that a search be undertaken.
 Upon his representations the Company sent forth two of their ships
 upon the quest. These, the _Churchill_ and the _Musquash_ went,
-however, no farther north than latitude 62° 15' and returned without
+however, no farther north than latitude 62Â° 15' and returned without
 seeing anything worthy of notice, save "a number of small islands,
 abundance of black whales, but no very great tides, the highest about
 two fathoms, the flood coming from the northward."
@@ -9246,7 +9211,7 @@ they might probably have enjoyed their trade to the Bay, without its
 being coveted or enquired into."
 
 Middleton owned to Dobbs that just before his departure the Company
-had endeavoured to bribe him with an offer of £5,000 to return to
+had endeavoured to bribe him with an offer of Â£5,000 to return to
 their service, or that if he was determined to go, to pursue the
 voyage by Davis' Straits, or by any other way than the west of the
 Bay. They alleged that it would cost the Company that amount to
@@ -9261,7 +9226,7 @@ two or three of the committee privately.
 Middleton now proceeded on his journey in quest of the famed
 north-west passage. It is charged that on his arrival in the Bay he
 never once went ashore or sent his boat to search for any inlet or to
-try the tide. He tried the current in latitude 63° 20', and found it
+try the tide. He tried the current in latitude 63Â° 20', and found it
 very rapid, in spite of the fact that there existed a great deal of
 ice to the northward. Its presence compelled him to stand off from
 shore until he passed Cape Dobbs, beyond which he found an opening
@@ -9728,7 +9693,7 @@ any of the estates, rights or privileges of or belonging to the
 Governor and Company of Adventurers trading into Hudson's Bay."
 
 With such encouragement, it was not long before a North-West
-Association was formed for the raising of £10,000, which sum it was
+Association was formed for the raising of Â£10,000, which sum it was
 thought would answer the necessary expense of the proposed expedition.
 The ships bought by the Committee were one of one hundred and eighty
 tons, called the _Dobbs' Galley_, and another of one hundred and forty
@@ -9741,7 +9706,7 @@ command of the _Dobbs' Galley_ was entrusted to Captain William Moor,
 an old servant of the Company; that of the _California_ being given to
 Francis Smith. By way of encouragement, premiums were settled on
 officers and crew, in case of success. Thus the captain was to have
-£500, each of the mates £200, and every other officer and seaman a
+Â£500, each of the mates Â£200, and every other officer and seaman a
 reward suitable to his station. Over and above all this, in case they
 were so fortunate as to take any prizes, such were to belong entirely
 to them.
@@ -10092,11 +10057,11 @@ number of facts relating to its trade, which had until then remained
 secret. Parliament was informed that the trade between London and
 Hudson's Bay was carried on in 1748, and for some years previous, by
 means of four ships; that the cost of the exports was in that year
-£5,012 12s. 3d.; that the value of the sales of furs and other imports
-amounted to £30,160 5s. 11d. As for the "charge attending the carrying
+Â£5,012 12s. 3d.; that the value of the sales of furs and other imports
+amounted to Â£30,160 5s. 11d. As for the "charge attending the carrying
 on of the Hudson's Bay trade, and maintaining their factories," it
-was, in 1748, £17,352 4s. 10d. Thus a trade which involved only £5,000
-a year in exports brought back a return of £30,000. Even when the
+was, in 1748, Â£17,352 4s. 10d. Thus a trade which involved only Â£5,000
+a year in exports brought back a return of Â£30,000. Even when the
 outlay for working and maintenance of forts and establishments was
 considered, there was, in dull times, a profit of forty per cent on
 actual paid-up capital.
@@ -10233,8 +10198,8 @@ gradually encroach on the chartered preserves. Such seems to have been
 the scheme in July, 1752, when a petition was presented to the Lords
 of Trade and Plantations, from "several London Merchants," who sought
 a grant of "all that part of America lying on the Atlantic Ocean on
-the east part, extending south and north from 52° north latitude from
-the equinoctial line to 60° of the same north latitude, called
+the east part, extending south and north from 52Â° north latitude from
+the equinoctial line to 60Â° of the same north latitude, called
 Labradore or New Britain, not at this time possessed by any of his
 Majesty's subjects or the subjects of any Christian prince or state."
 
@@ -10243,11 +10208,11 @@ Company was called upon to say whether it laid claim to this tract. In
 their reply the Honourable Adventurers referred to the grant of
 Charles II. of all rights to trade and commerce of those seas, etc.,
 within entrance of Hudson's Straits, and of all lands on the coasts
-and confines thereof; Labrador throughout its whole extent, from 60°
-north latitude to 52°, was therefore alleged to be within their
+and confines thereof; Labrador throughout its whole extent, from 60Â°
+north latitude to 52Â°, was therefore alleged to be within their
 limits.
 
-The Company was already settled there, and had spent £10,000 on it.
+The Company was already settled there, and had spent Â£10,000 on it.
 Moreover, declared the Company, it was a barren land, with few beavers
 or other furs of value.
 
@@ -10327,7 +10292,7 @@ But the wooden fort Prince of Wales did not remain long. The
 remembrance of their former posts destroyed by fire, and Iberville's
 cannon, caused the Company at length to undertake the fortification on
 a splendid scale of its best harbour, to safeguard what it designed to
-be its principal _entrepôt_ from the French, as well as from the
+be its principal _entrepÃ´t_ from the French, as well as from the
 Indians. Opposition was cried down, and the "fortification party," as
 it was called, carried the day. A massive thirty-feet wide foundation
 was begun at Churchill, from the plans of military engineers who had
@@ -10470,7 +10435,7 @@ an attack on Captain Christopher Middleton.
 
 [65] On June 28th, 1749, at a Company's meeting, an account was made
 of the cost of defending the Company's charter, upon the motion made
-in the House of Commons. It amounted in the whole to only £755 5s.
+in the House of Commons. It amounted in the whole to only Â£755 5s.
 10d., exclusive of Sharpe, the Company solicitor's services.
 
 [66] In refusing to advise the granting of a charter to the Company's
@@ -10513,7 +10478,7 @@ CHAPTER XXIV.
 
 The conquest of Canada by the English in 1760[68] had an almost
 instantaneous effect upon the fur-trade of the French. The system of
-licenses was swept away with the _régime_ of Intendants of New France.
+licenses was swept away with the _rÃ©gime_ of Intendants of New France.
 The posts which, established chiefly for purposes of trade, were yet
 military, came to be abandoned, and the officers who directed them
 turned their disconsolate faces towards France, or to other lands
@@ -10563,7 +10528,7 @@ friends.
 
 Thus for some years the Company prospered, and did a more thriving
 business than ever. But before, however, dealing with the new
-_régime_, let us turn for a moment to the Canadian bushrangers and
+_rÃ©gime_, let us turn for a moment to the Canadian bushrangers and
 voyageurs thus cut off from their homes and abandoned by their
 officers and employers. Their occupation was gone--whither did they
 drift? Too long had they led the untrammelled life of the wilderness
@@ -10609,7 +10574,7 @@ Montreal with his canoes loaded with fine furs. But he never expressed
 a desire to repeat the performance, although it was not long before
 his example was followed by many others. James Finlay was the first of
 these; he penetrated to Nipawee, the last of the French posts on the
-Saskatchewan, in latitude 53½, and longitude 103. This trader was
+Saskatchewan, in latitude 53Â½, and longitude 103. This trader was
 equally successful.
 
 [Sidenote: Henry's expedition.]
@@ -10619,7 +10584,7 @@ general character, identical with that pursued a hundred years before
 by Groseilliers, another intrepid trader, Alexander Henry, decided to
 strike off into the North-West. He left "the Sault," as Sault Ste.
 Marie was called, on the 10th of June, 1775, with goods and provisions
-to the value of £3,000 sterling, on board twelve small canoes and four
+to the value of Â£3,000 sterling, on board twelve small canoes and four
 larger ones. Each small canoe was navigated by three men, and each
 larger one by four. On the 20th they encamped at the mouth of the
 Pijitic. It was by this river, he tells us, that the French ascended
@@ -10744,7 +10709,7 @@ estimate of the expense.
 The Company expressed itself as "ready to convey the persons desired,
 with their baggage and instruments, to and from Fort Churchill, and to
 provide them with lodging and medicine while there, _gratis_, they to
-find their own bedding." The Company demanded £250 for diet during the
+find their own bedding." The Company demanded Â£250 for diet during the
 absence of the astronomers from England, which would be about eighteen
 months. The Adventurers recommended the Society to send the intended
 building in frame, with all necessary implements, tools, etc., which
@@ -10873,7 +10838,7 @@ might have been tempted to these nefarious practices by the smallness
 of their respective salaries, and therefore in the hope of securing
 their fidelity and encouraging diligence and industry, and the
 extending of the Company's trade to the utmost to the benefit of the
-Company and the revenue, it was decided that a salary of £130 per
+Company and the revenue, it was decided that a salary of Â£130 per
 annum be allowed the chief factors at York, Albany, and Prince of
 Wales' Fort; also the factors about to be appointed at Moose Fort and
 Severn House, "in lieu of former salaries, and all trapping
@@ -10895,8 +10860,8 @@ Office, and reported that the premium would be five per cent. per
 annum on each ship during their being in dock, or on the River Thames
 above Gravesend; and the same on the ships' stores while they
 continued in the Company's warehouse at Ratcliff. Whereupon the
-Company insured each of its three ships for £2,000, and the ships'
-stores in the above warehouse for £3,000.
+Company insured each of its three ships for Â£2,000, and the ships'
+stores in the above warehouse for Â£3,000.
 
 FOOTNOTES:
 
@@ -11189,7 +11154,7 @@ read before his employers, the Honorable Adventurers.[75] It was not
 until some years later that it was discovered that he had, either in
 ignorance or, according to one of his enemies named Dalrymple, "in a
 desire to increase the value of his performance," placed the latitude
-of the Coppermine at nearly 71 degrees north instead of at about 67½
+of the Coppermine at nearly 71 degrees north instead of at about 67Â½
 degrees. Hearne's own apology was that after the breaking of his
 quadrant[76] on the second expedition, he was forced to employ an old
 Elton quadrant, which had for thirty years been amongst the relics and
@@ -11216,7 +11181,7 @@ number of young Orkney Islanders.
 
 The labouring servants, as has been seen, were first in 1712, and from
 about 1775 onwards, procured from the Orkney Islands, their wages
-being about £6 a year. They were engaged by the captains of the ships,
+being about Â£6 a year. They were engaged by the captains of the ships,
 usually for a period of five years. Each servant signed a contract on
 his entrance into the service to serve for the term and not to return
 home until its expiration, unless recalled by the Company. He engaged
@@ -11265,7 +11230,7 @@ Whilst these young Scotchmen were scattered about the country in small
 parties amongst the Indians, their general behaviour won them the
 respect of the savages, as well as procured them their protection. It
 is a significant fact that for the first fifteen years of the new
-_régime_ the Company did not suffer the loss of a single man,
+_rÃ©gime_ the Company did not suffer the loss of a single man,
 notwithstanding that their servants were annually exposed to all the
 dangers incident to the trade and times.
 
@@ -11321,7 +11286,7 @@ members, who rather desired to obtain the Governor's favour by
 acquiescence rather than his resentment by opposition.
 
 The Governors were appointed for either three or five years, and their
-nominal salary was from £50 to £150 per annum, which the premium on
+nominal salary was from Â£50 to Â£150 per annum, which the premium on
 the trade often trebled and sometimes quadrupled. These officials
 commonly reigned as absolute in their petty commands as Eastern
 Nabobs; and as it was in a Governor's power to render the lives of
@@ -11424,7 +11389,7 @@ own.
 FOOTNOTES:
 
 [71] From the good opinion we entertain of you, and Mr. Norton's
-recommendation, we have agreed to raise your wages to £130 per annum
+recommendation, we have agreed to raise your wages to Â£130 per annum
 for two years, and have placed you in our council at Prince of Wales'
 Fort; and we should have been ready to advance you to the command of
 the _Charlotte_, according to your request, if a matter of more
@@ -11492,7 +11457,7 @@ judicious remarks.
 We have, naturally, considered your great assiduity in the various
 accidents which occurred in your several journeys. We hereby return
 you our grateful thanks, and to manifest our obligation we have
-consented to allow you a gratuity of £200 for those services.
+consented to allow you a gratuity of Â£200 for those services.
 
 [76] "Mr. Dalrymple, in one of his pamphlets relating to Hudson's Bay,
 has been so very particular in his observations on my journey, as to
@@ -11511,7 +11476,7 @@ CHAPTER XXVI.
      Company Suffers from the Rivalry of Canadians -- Cumberland
      House built -- Debauchery and license of the Rivals --
      Frobisher Intercepts the Company's Indians -- The Smallpox
-     Visitation of 1781 -- La Pérouse appears before Fort Prince of
+     Visitation of 1781 -- La PÃ©rouse appears before Fort Prince of
      Wales -- Hearne's Surrender -- Capture of York Fort by the
      French -- The Post Burned and the Company's Servants carried
      away Prisoners.
@@ -11538,8 +11503,8 @@ or their employers or capitalists were concerned, not to mention the
 aborigines themselves.
 
 Hearne hit upon what he considered a good site for the new post at
-Sturgeon Lake, on the eastern bank, in latitude 53°, 56 and longitude
-102°, 15. The post prospered almost from its foundation. The
+Sturgeon Lake, on the eastern bank, in latitude 53Â°, 56 and longitude
+102Â°, 15. The post prospered almost from its foundation. The
 neighbouring tribes found that here were to be procured a larger and
 better assortment of goods than the Canadians brought them, and
 frequented it in preference.[78]
@@ -11596,11 +11561,11 @@ going as far west as the Lake of Isle a la Crosse.
 
 The difficulties of transport are pointed out in letters of Frobisher
 and McGill. The value of each canoe load, on arrival at
-Michilimackinac, had been estimated, in 1780, to be £660 currency,
+Michilimackinac, had been estimated, in 1780, to be Â£660 currency,
 equal to $2,640, showing the cost of transport by the Ottawa to have
 been $640 for each canoe; the value at Montreal having been $2,000. In
 April, 1784, Benjamin Frobisher wrote that twenty-eight canoes were
-ready to be sent off, valued at £20,000 currency, or $80,000, a sum
+ready to be sent off, valued at Â£20,000 currency, or $80,000, a sum
 for each canoe largely in excess of the estimate of four years before.
 
 Frobisher's success in intercepting the Company's Indians induced
@@ -11706,9 +11671,9 @@ officers were sent on ahead to summon the Governor to surrender. The
 French ships turned out to be the _Sceptre_, seventy-four guns, the
 _Astarte_, and the _Engageante_, of thirty-six guns each, and the
 force possessed besides four field guns, two mortars, and three
-hundred bomb-shells. This fleet was in command of Admiral Pérouse.
+hundred bomb-shells. This fleet was in command of Admiral PÃ©rouse.
 
-It appears that La Pérouse had counted on arriving just in time to
+It appears that La PÃ©rouse had counted on arriving just in time to
 secure a handsome prize in the Company's ships, for which he had lain
 in wait in the Bay. Hearne seems to have been panic-stricken and
 believed resistance useless.
@@ -11722,7 +11687,7 @@ The French admiral lost no time in transporting what guns he could
 find to his ships, and replenishing his depleted commissariat from the
 well-filled provision stores of the fort.[81]
 
-La Pérouse was both angry and disappointed at the escape of the
+La PÃ©rouse was both angry and disappointed at the escape of the
 Company's ships and cargoes. One of these ships, bound for Fort
 Churchill, he had met in the Bay and immediately sent a frigate in
 pursuit. But Captain Christopher, by the steering of the French
@@ -11831,7 +11796,7 @@ attack by way of Nelson River, they could not use their mortars or
 artillery, the ground being very bad and interspersed with woods,
 thickets and bogs. The Governor was resolved to yield the place, and
 he carried out his intention much to the astonishment and satisfaction
-of La Pérouse.
+of La PÃ©rouse.
 
 [Sidenote: Unwise surrender.]
 
@@ -11847,7 +11812,7 @@ could have received no supplies but what came from the ships; and
 cold, hunger and fatigue were working hourly in favour of the
 Company's men.
 
-La Pérouse now issued orders for the fort to be evacuated and burned,
+La PÃ©rouse now issued orders for the fort to be evacuated and burned,
 and the Company's people were taken prisoners.
 
 The Company suffered great loss by the capture of York Factory, which
@@ -11857,7 +11822,7 @@ the ship were destroyed, as well as a large quantity of stores,
 implements and appliances which had been collecting for nearly seventy
 years.
 
-This expedition had resulted in two cheap conquests for La Pérouse.
+This expedition had resulted in two cheap conquests for La PÃ©rouse.
 But the fortunes of war bade fair to alter the situation. The Company
 sent in a bill to the British Government of many thousands of pounds
 for failing to protect their fort on Churchill River; and when peace
@@ -11903,9 +11868,9 @@ egregious than to erect a fort of such extent, strength and expense
 and only allow thirty-nine men to defend it?"
 
 [81] An account of Hearne's journey was found in MS. among the papers
-of the Governor, and La Pérouse declares in his memoirs that Hearne
+of the Governor, and La PÃ©rouse declares in his memoirs that Hearne
 was very pressing that it should be returned to him as his private
-property. "The goodness of La Pérouse's heart induced him to yield to
+property. "The goodness of La PÃ©rouse's heart induced him to yield to
 this urgent solicitation, and he returned the MS. to him on the
 express condition, however, that he should print and publish it
 immediately on his arrival in England." "Notwithstanding this,"
@@ -12023,7 +11988,7 @@ another lamed for life, and many of their voyageurs injured. Yet the
 establishment thus joined, and shorn of all rivals save the Great
 Company, was placed on a solid basis, and the fur-trade of Canada
 began to assume greater proportions than it had yet done under the
-English _régime_. As this North-West concern was finally itself to
+English _rÃ©gime_. As this North-West concern was finally itself to
 merge into the Company of which these chapters are the history, it
 will not be unprofitable to glance at its constitution and methods,
 particularly as the economic fabric was to be likewise transferred and
@@ -12105,7 +12070,7 @@ foresight were demanded, and in the persons of these Canadian
 Scotchmen were forthcoming.
 
 As for the value of the business in 1788, all the furs, merchandise,
-provisions and equipments were worth the sum of £40,000. This might
+provisions and equipments were worth the sum of Â£40,000. This might
 properly be called the stock of the Company, for, as Mackenzie, who
 was now one of its traders, remarked, it included, within the gross
 expenditure for that year, the amount of the property unexpended,
@@ -12113,7 +12078,7 @@ which having been appropriated for that year's adventure, was carried
 on to the account of the next season.
 
 So greatly did the new Company flourish that the gross amount of the
-adventure ten years later, was close upon £125,000. But in that year,
+adventure ten years later, was close upon Â£125,000. But in that year,
 1798, a change was to occur which will be dealt with in another
 chapter.
 
@@ -12229,7 +12194,7 @@ fire-arms for, when one of Mackenzie's men discharged his
 fowling-piece, the utmost terror took possession of them.
 
 When this intrepid pioneer through the lands of the Hudson's Bay
-Company had reached a latitude of 67° 47´, a great range of snowy
+Company had reached a latitude of 67Â° 47Â´, a great range of snowy
 mountains burst into view. Mackenzie, by this time, was convinced that
 the waters on which the four frail barks were gliding must flow into
 the Arctic Ocean.
@@ -12252,7 +12217,7 @@ rarer.
 
 On the 12th of July the explorer reached what appears to have been an
 arm of the Arctic Sea. It was quite open to the westward, and by an
-observation the latitude was found to be 69°. All before them, as far
+observation the latitude was found to be 69Â°. All before them, as far
 as they could see, was a vast stretch of ice. They continued their
 course with difficulty fifteen miles to the western-most extremity of
 a high island, and then it was found impossible to proceed farther.
@@ -12343,7 +12308,7 @@ they could ascertain if it was practicable to resume navigation.
 
 While this party was gone on its quest, the canoe was repaired, and
 Mackenzie busied himself in taking an altitude which showed the
-latitude to be 56° 8'. By sunset the scouts had severally returned,
+latitude to be 56Â° 8'. By sunset the scouts had severally returned,
 each having taken different routes. They had penetrated through thick
 woods, ascended hills and dived into valleys, passed the rapids, and
 agreed, that though the difficulties by land were appalling, this was
@@ -12503,7 +12468,7 @@ CHAPTER XXVIII.
 
 1787-1808.
 
-     Captain Vancouver -- La Pérouse in the Pacific -- The Straits
+     Captain Vancouver -- La PÃ©rouse in the Pacific -- The Straits
      of Anian -- A Fantastic Episode -- Russian Hunters and Traders
      -- The Russian Company -- Dissensions amongst the Northmen --
      They send the _Beaver_ to Hudson's Bay -- The Scheme of Mackenzie
@@ -12520,15 +12485,15 @@ already been made good by several Russians since Bering's time, and
 the Company's charter secured to them the lands drained by the Fraser,
 Mackenzie, and Peace rivers, to the west.
 
-[Sidenote: La Pérouse in the Pacific.]
+[Sidenote: La PÃ©rouse in the Pacific.]
 
 So little, however, was the Russian title recognized for some time,
-that when this unfortunate expedition of La Pérouse, with the frigates
+that when this unfortunate expedition of La PÃ©rouse, with the frigates
 _Boussole_ and _Astralabe_, stopped on this coast in 1787, that
 doughty destroyer of York and Prince of Wales' Forts did not hesitate
-to consider the friendly harbour in latitude 58° 36' as open to
+to consider the friendly harbour in latitude 58Â° 36' as open to
 permanent occupation. Describing this harbour, which he named Port des
-François, he says that nature seemed to have created at this extremity
+FranÃ§ois, he says that nature seemed to have created at this extremity
 of the world a port like that of Toulon, but vaster in plan and
 accommodation; and then, considering that it had never been discovered
 before, that it was situated thirty-three leagues north-west of
@@ -12543,7 +12508,7 @@ have the slightest right to oppose it."
 Thus was Russia to be coolly dislodged by the French! There is little
 doubt but that the Company, judging by its declarations in committee
 some years afterwards, would have had something to say in the matter.
-But La Pérouse and his frigates sailed farther on in their voyage and
+But La PÃ©rouse and his frigates sailed farther on in their voyage and
 never returned to France. Their fate for a generation remained
 unknown, until their shipwrecked hulls were accidentally found on a
 desert island in the South Pacific. The unfinished journal of this
@@ -12556,7 +12521,7 @@ supposed discovery and his aspirations.
 
 Spain also had been a claimant. In 1775 Bodega, a Spanish navigator,
 seeking new opportunities to plant the Spanish flag, reached a
-parallel of 58° on this coast, not far from Sitka; but this supposed
+parallel of 58Â° on this coast, not far from Sitka; but this supposed
 discovery was not followed by any immediate assertion of dominion. The
 universal aspiration of Spain had embraced this whole region at a much
 earlier day, and shortly after the return of Bodega another enterprise
@@ -12653,7 +12618,7 @@ opposition to the Russians.
 It was paying dearly now for its short-sightedness in not availing
 itself of the opportunities afforded by the conquest of Canada to
 penetrate into its chartered domain. In the second year of the century
-the Honourable Adventurers had been obliged to borrow £20,000 from the
+the Honourable Adventurers had been obliged to borrow Â£20,000 from the
 Bank of England, hoping that the cessation of war in Europe, and the
 quarrels of the rival Montreal traders in North America, would permit
 the Company to regain the advantage it had lost. For in the autumn of
@@ -13040,8 +13005,8 @@ River. Besides these there were eighty or one hundred Canadians and
 Iroquois hunters, not servants, ranging free over the country and
 about five hundred and forty men employed in canoes on the Ottawa
 River. The average duties paid annually on landing in Britain amounted
-to upwards of £22,000 sterling and the price paid for the furs
-exported from Quebec in 1801, at the London sales, was £371,139 11s.
+to upwards of Â£22,000 sterling and the price paid for the furs
+exported from Quebec in 1801, at the London sales, was Â£371,139 11s.
 4d.
 
 
@@ -13106,11 +13071,11 @@ whole country from Lake Superior to the Athabasca.
 shot, woollens, hardware and other articles, which together with large
 supplies of provisions for the factories, constitute an annual outfit
 consisting wholly of British manufactures and British produce of from
-£40,000 to £50,000, in return for which we receive the furs of bears,
+Â£40,000 to Â£50,000, in return for which we receive the furs of bears,
 wolves, foxes, otters, martens, beaver and other animals, together
 with some oil and articles of inferior value. The cargoes are sold at
 public sale. The beaver and some few inferior furs, together with the
-oil, are bought for home consumption and sell for about £30,000, but
+oil, are bought for home consumption and sell for about Â£30,000, but
 the fine furs were, till after the sale of 1806, bought by the fur
 merchants for the fairs of Frankfort and of Leipsic for Petersburg,
 and before the present war, for France. Since that year there has not
@@ -13128,7 +13093,7 @@ for them.
 warehouses are filled with the most valuable productions of three
 years' import that if sold at the prices of those years before the
 closing of the ports on the Continent would have produced us at least
-£150,000.
+Â£150,000.
 
 "It may be objected to us, that we were improvident in pursuing under
 such circumstances a trade which must so inevitably tend to ruin. But
@@ -13162,7 +13127,7 @@ principally of articles which long habit have taught them now to
 consider of first necessity, if we withhold these outfits, we leave
 them destitute of their only means of support. The truth of this
 observation had a melancholy proof in the year 1782, when from the
-attack made upon the settlements by La Pérouse, and the consequent
+attack made upon the settlements by La PÃ©rouse, and the consequent
 failure of our supplies, many of the Indians were found starved to
 death.
 
@@ -13208,7 +13173,7 @@ the French upon our factories. Our forts and military works, mounted
 with a numerous and expensive artillery for the defence of the colony
 against their future operations, were destroyed and the guns ruined.
 And particularly was a most grievous loss occasioned to us by the
-predatory attack of La Pérouse about the conclusion of the American
+predatory attack of La PÃ©rouse about the conclusion of the American
 War, which caused the distress to which we have above alluded.
 
 "Against these pressures when our trade flourished we were able to
@@ -13240,7 +13205,7 @@ this Council could "offer any opinion to the Lords of Treasury."
 [Sidenote: Small Government assistance.]
 
 As their petition was denied, the Company now boldly prepared a
-request and asked for a loan of £60,000, and that time be extended for
+request and asked for a loan of Â£60,000, and that time be extended for
 paying the duties on furs imported until the continental market
 re-opened. To this request an answer was returned, allowing twelve
 months storage of furs free of duty and promising drawbacks as if
@@ -13638,10 +13603,10 @@ to encounter much friction in distant quarters supposed to be
 friendly, and required to be obedient to the orders of the Company.
 
 When the vote was taken, it was found that for the question there
-appeared holders of stock valued at £29,937; against it, £14,823. The
-Earl, himself, voted "for"--£4,087; the principal opponent of the
+appeared holders of stock valued at Â£29,937; against it, Â£14,823. The
+Earl, himself, voted "for"--Â£4,087; the principal opponent of the
 scheme being one William Thwaytes, whose interest was represented at
-£9,233.
+Â£9,233.
 
 At this meeting a memorial was read violently opposing the scheme,
 signed by Thwaytes and four or five others. According to them, the
@@ -13658,8 +13623,8 @@ Hudson's Bay Company in return for a grant of land, viz., two hundred
 men for ten years, from 1812, who would every year be ready to embark
 between May 1st and July 1st at an appointed place in Scotland.
 
-The Company were to pay wages to each man not exceeding £20. Should
-the Earl fail, he agreed to forfeit £10 per man short of two hundred.
+The Company were to pay wages to each man not exceeding Â£20. Should
+the Earl fail, he agreed to forfeit Â£10 per man short of two hundred.
 As to proposed grants of land to settlers, two hundred acres were to
 be given to labourers or artificers; one thousand acres to a master of
 a trading-house. The Company were, of course, to have full rights of
@@ -13677,8 +13642,8 @@ a protest was handed in to the Governor by Thwaytes and others. In
 spite of this, on the 13th of June, the deed was signed, sealed and
 delivered by the secretary on behalf of the Company.
 
-The lands were defined by deed as situate between 52° 30' north
-latitude and 102° 30' west longitude, a map being affixed to the
+The lands were defined by deed as situate between 52Â° 30' north
+latitude and 102Â° 30' west longitude, a map being affixed to the
 deed.
 
 In reading this protest, one who was ignorant of the true state of
@@ -13717,7 +13682,7 @@ Auld, who, as we have seen, occupied the position of Superintendent of
 the Northern Department of Rupert's Land. After a short residence at
 the fort, where they were treated in a somewhat tyrannical and
 high-handed fashion by the Governor, who had scant sympathy for the
-new _régime_, the party were sent forward to Seal Creek, fifty miles
+new _rÃ©gime_, the party were sent forward to Seal Creek, fifty miles
 up Nelson River. Governor McDonnell and one Hillier, in the character
 of justice of the peace, accompanied them thither, and preparations
 were at once made for the erection of a suitable shelter.
@@ -13817,7 +13782,7 @@ Archives, _v._ Report 1892.
 a bill to carry him before the Lord Chancellor, it was proposed to my
 solicitor by the solicitor of his Lordship that one-third of the stock
 that was purchased on joint account before I went to America,
-amounting to £47,000, and the balance of cash in his Lordship's hands,
+amounting to Â£47,000, and the balance of cash in his Lordship's hands,
 belonging to me, should be given up to me; of this I accepted, though
 I might have obliged his Lordship to make over to me one-third of the
 whole purchase made by him in this stock, which at one time I was
@@ -13828,12 +13793,12 @@ thought it prudent to desist from any further purchases."
 Mackenzie says that by a verbal understanding with Mr. McGillivray,
 his purchase of the Hudson's Bay stock belonged to the North-West
 Company, and that, if Mr. McGillivray himself had been there, a sum of
-£30,000 might have been invested in that stock, "all of which Lord
+Â£30,000 might have been invested in that stock, "all of which Lord
 Selkirk purchased, and if he persists in his present scheme, it will
 be the dearest he yet made.
 
 "He will put the North-West Company to a greater expense than you seem
-to apprehend, and had the Company sacrificed £20,000 which might have
+to apprehend, and had the Company sacrificed Â£20,000 which might have
 secured a preponderance in the stock of Hudson's Bay Co., it would
 have been money well spent."
 
@@ -13872,7 +13837,7 @@ CHAPTER XXX.
 
 1812-1815.
 
-     The Bois-Brulés -- Simon McGillivray's Letter -- Frightening
+     The Bois-BrulÃ©s -- Simon McGillivray's Letter -- Frightening
      the Settlers -- A second Brigade -- Governor McDonnell's
      Manifesto -- Defection of Northmen to the Company --
      Robertson's Expedition to Athabasca -- Affairs at Red River --
@@ -13882,15 +13847,15 @@ CHAPTER XXX.
      concluded.
 
 
-[Sidenote: The Bois-Brulés.]
+[Sidenote: The Bois-BrulÃ©s.]
 
 There had lately been witnessed the rapid growth of a new
 class--sprung from the loins of Red man and European. Alert, rugged,
 turbulent, they evinced at the same time a passionate love of the life
 and manners of the wilderness, and a fierce intractability which could
 hardly fail to cause occasional uneasiness in the minds of their
-masters. To this class had been given the name of Métis, or
-Bois-Brulés. They were principally the descendants of the French
+masters. To this class had been given the name of MÃ©tis, or
+Bois-BrulÃ©s. They were principally the descendants of the French
 voyageurs of the North-West concern, who had allied themselves with
 Indian women and settled down on the shore of some lake or stream in
 the interior. Amongst these half-breeds hunters and trappers came, and
@@ -13901,7 +13866,7 @@ neither English, Scotch, or Indian, but as belonging to the "New
 Nation."
 
 From 1812 to 1821 the North-West concern absorbed all the labours and
-exacted the loyalty of the increasing class of Bois-Brulés. The
+exacted the loyalty of the increasing class of Bois-BrulÃ©s. The
 Hudson's Bay Company was exclusively an English company, and their
 Scotch and English servants had left few traces of an alliance with
 the aborigines. As the posts in the interior began to multiply, and
@@ -13910,11 +13875,11 @@ York, Cumberland and Moose factories, and were thrown more upon their
 own resources, a laxer discipline prevailed, and the example of their
 neighbours was followed. A time was to come when the "Orkney
 half-breeds" equalled in point of numbers those of the French
-Bois-Brulés.
+Bois-BrulÃ©s.
 
-  [Illustration: A BOIS-BRULÉ.]
+  [Illustration: A BOIS-BRULÃ‰.]
 
-There were yet few half-breeds of English extraction. The Bois-Brulés
+There were yet few half-breeds of English extraction. The Bois-BrulÃ©s
 were passionately attached to the North-West company, who were quick
 to recognize their value as agents amongst the Indians. The idea of
 nationality, so far from being frowned upon, was encouraged amongst
@@ -14091,7 +14056,7 @@ halt. They were told briefly that they were unwelcome visitors in that
 region, and must depart. The colonists might have been urged to make a
 stand, but to the terrors of hostile Indian and half-breed was added
 that of prospective starvation, for none would sell them provisions
-thereabouts. The painted warriors, who were North-West company Métis
+thereabouts. The painted warriors, who were North-West company MÃ©tis
 in disguise, urged them to proceed to Pembina, where they would be
 unharmed, and offered to conduct them there. They acquiesced, and the
 pilgrimage, seventy miles farther on, was resumed. At Pembina they
@@ -14322,7 +14287,7 @@ execution. The immigrants were alternately bribed, cajoled and
 threatened into abandoning their settlement on the Red River. To each
 Cameron engaged to give a free passage to Canada (generally to
 Montreal), a twelvemonth's supply of provisions _gratis_ for
-themselves and families, while various sums, varying from £15 to £100,
+themselves and families, while various sums, varying from Â£15 to Â£100,
 were paid or promised to deserters. A pretext being found, Spencer,
 the sheriff of the colony and a really valuable officer, was taken
 prisoner under a warrant from a North-West partner, and after a
@@ -14331,14 +14296,14 @@ protracted detention sent overland to Montreal.
 During the interval between the autumn of 1814 and the spring of 1815,
 a number of the settlers were seduced and instigated to disloyalty
 against their benefactors and the Company. A large band of the
-Bois-Brulés were, during this period, maintained and paraded in arms
+Bois-BrulÃ©s were, during this period, maintained and paraded in arms
 under Cameron, who, now that the preparatory measures had reached this
 stage, believed the time ripe for more decisive measures.
 
 Of the ruling spirit amongst the half-breed hordes, mention has
 already been made. Cuthbert Grant now appeared on the scene and with
 him some of his choicest dare-devil crew. The return of the settlers
-to the colony had filled the minds of the Bois-Brulés with rage. The
+to the colony had filled the minds of the Bois-BrulÃ©s with rage. The
 contempt of the wild hunters of the plains for the peaceful tillers of
 the soil was great. They scorned them for their manual labour; they
 reproachfully termed them "the workers in gardens," and the phrase,
@@ -14352,7 +14317,7 @@ of a number of those who still continued faithful to their contracts
 and their duty, incited to rob and pillage a fort belonging to the
 settlement, and of the cannon set out by the British Government for
 its defence. Armed sentinels were placed at different doors to prevent
-opposition, while a part of the Bois-Brulés and servants of the
+opposition, while a part of the Bois-BrulÃ©s and servants of the
 Nor'-Westers, under the command of Cameron, were stationed in arms
 within the distance of a few hundred feet for the purpose of giving
 support to the plunderers in case their force should be insufficient.
@@ -14455,7 +14420,7 @@ persons for various articles which they had plundered from the
 settlement and delivered to Cameron at Fort Gibraltar. These consisted
 principally of implements of husbandry, working tools, horses,
 muskets, guns, pistols, etc., etc. Thus in one of the pages appears a
-credit "for five new guns, £10; for a new common pistol, 15s.; one old
+credit "for five new guns, Â£10; for a new common pistol, 15s.; one old
 gun, 15s.," etc., etc. At the bottom of these accounts were generally
 added the amounts they were to receive, and did receive, as rewards
 for their services against the settlement. Several thus obtained
@@ -14473,19 +14438,19 @@ since, and deserves something from the North-West company, say five or
 six pounds." Of another, "This man was also a great partisan of ours,
 and made himself very useful to us; he lost his three years' earnings
 with the Hudson's Bay Company for joining us, and he deserves, at
-least, about £20." Of another (inscribed by Alexander McDonell): "He
+least, about Â£20." Of another (inscribed by Alexander McDonell): "He
 was very desperate in our cause this spring and deserves three or four
 pounds." There are other entries, as follows: "An active, smart
 fellow. Left the Hudson's Bay Company in April last--a true partisan,
 steady and brave. Took a most active part in the campaign this spring,
-and deserves from £15 to £20. He has lost about £20 by leaving the
+and deserves from Â£15 to Â£20. He has lost about Â£20 by leaving the
 Hudson's Bay Company a month before the expiration of his contract."
 
 "This man left the Hudson's Bay Company in the month of April, owing
 to which he lost three years' wages. His behaviour towards us has been
 that of a true partisan--a steady, brave and resolute man; and was
 something of a leading character among his countrymen, and deserves at
-least about £20."
+least about Â£20."
 
 [Sidenote: Leaves from the account book.]
 
@@ -14496,15 +14461,15 @@ company. He was seated at table in their common hall at Fort William,
 next to the partners, and above the clerks of the company. Enviable
 distinction! But it was but as the shadow of a more tangible and,
 doubtless, to its recipient, a more valued reward. By the direction of
-the partnership he received a recompense of £100, paid to him by one
+the partnership he received a recompense of Â£100, paid to him by one
 of the company's clerks. In the account-book above mentioned appears
 Cameron's testimony to the merits of this hero. "This (George
 Campbell) is a very decent man, and a great partisan, who often
 exposed his life for the North-West company. He has been of very
 essential service in the transactions of Red River, and deserves at
-least £100, Halifax; and every other service that can be rendered him
+least Â£100, Halifax; and every other service that can be rendered him
 by the North-West company. Rather than that his merit and services
-should go unrewarded, I would give him £100 myself, although I have
+should go unrewarded, I would give him Â£100 myself, although I have
 already been a good deal out of pocket by my campaign to Red River."
 
 One would fain linger in the common-hall, at Fort William, the
@@ -14551,7 +14516,7 @@ CHAPTER XXXI.
 
      A New Brigade of Immigrants -- Robert Semple -- Cuthbert
      Grant's Letter -- The De Meuron Regiment -- Assembling of the
-     Bois-Brulés -- Tragedy at Seven Oaks -- Selkirk at Fort William
+     Bois-BrulÃ©s -- Tragedy at Seven Oaks -- Selkirk at Fort William
      -- McGillivray Arrested -- Arrest of the Northmen -- Selkirk
      proceeds to Red River.
 
@@ -14646,7 +14611,7 @@ plenty of work for their swords. They were shipped to Canada, and in
 
 Lord Selkirk perceived in them an instrument ready to his hand. He
 sent for their officers, four in number, Captains d'Orsonnens and
-Matthey, and Lieutenants Fauché and Graffenreith, and informed them he
+Matthey, and Lieutenants FauchÃ© and Graffenreith, and informed them he
 had work in hand. They listened and agreed to his terms on behalf of
 their men. They hastened in boats up the St. Lawrence, and at Kingston
 encountered twenty other foreign soldiers belonging to the De
@@ -14737,7 +14702,7 @@ colony at Red River. Many of these were collected from a very distant
 part of the country; some from Cumberland House and also from the
 Upper Saskatchewan, at least seven hundred miles from the settlement.
 Reports had reached the colonists, of whom there were, all told,
-about two hundred, that the Bois-Brulés were assembling in all parts
+about two hundred, that the Bois-BrulÃ©s were assembling in all parts
 of the north for the purpose of driving them away. Each day increased
 the prevalence of these rumours. The hunters, and the free Canadians
 who had supplied them with provisions, were terrified at the prospect
@@ -14772,7 +14737,7 @@ unhappy Pambrun, from his confinement, could distinctly hear the cries
 of the French and half-breeds, which they caught up again and again in
 a paroxysm of triumph.
 
-"Sacré nom de Dieu! Bonne Nouvelles! Vingt-deux Anglaise de tués!"
+"SacrÃ© nom de Dieu! Bonne Nouvelles! Vingt-deux Anglaise de tuÃ©s!"
 
   [Illustration: SCENE OF THE RED RIVER TRAGEDY.]
 
@@ -14788,7 +14753,7 @@ and a watch regularly kept to guard against surprise. On the 17th of
 June, two Cree Indians who had escaped from the party of North-Westers
 under McDonell, came to the Governor at Fort Douglas, adjoining the
 settlement, with the intelligence that he would certainly be attacked
-in two days by the Bois-Brulés, under Cuthbert Grant, who were
+in two days by the Bois-BrulÃ©s, under Cuthbert Grant, who were
 determined to take the fort, and that if any resistance were made,
 neither man, woman or child would escape.
 
@@ -14853,7 +14818,7 @@ protection within its walls. Bourke, and a few of his companions, had
 succeeded in regaining the fort with the cannon he had taken out. All
 waited for the expected attack of the North-Westers. An anxious night
 ensued, but no attack, and it was afterwards learnt that the
-Bois-Brulés had a wholesome dread of the cannon in the hands of the
+Bois-BrulÃ©s had a wholesome dread of the cannon in the hands of the
 settlers.
 
 Pritchard, who had been taken prisoner to the camp ground of the main
@@ -14872,7 +14837,7 @@ be provided them, and they would be permitted to take all their
 personal effects. They were told that two other groups of
 North-Westers were daily expected to arrive in the locality, one
 hailing from the Saskatchewan, and the other party from Lake Superior.
-It would, therefore, be necessary to send some of the Bois-Brulés with
+It would, therefore, be necessary to send some of the Bois-BrulÃ©s with
 them, to explain the situation.
 
 At first the colonists refused to listen to these terms. Sheriff
@@ -14915,7 +14880,7 @@ flattered themselves, a brazen behaviour might alleviate.
 The five men thus made prisoners were, after various delays and after
 two of them had been put in irons, conveyed to Fort William. They had
 not long been inmates of quarters at this great post, when McLeod and
-his party arrived there. With him came a number of the Bois-Brulés,
+his party arrived there. With him came a number of the Bois-BrulÃ©s,
 Semple's murderers, bearing a portion of the plunder which had been
 reserved for the North-West company. Their arrival was the signal for
 rejoicing. The air was filled with impromptu songs and ballads
@@ -14968,7 +14933,7 @@ Indian country, drawn by David Thompson, he who had written at the
 crisis of his career, "To-day I left the services of the Hudson's Bay
 Company to join the North-West, and may God help me." On this
 extraordinary production were inscribed in characters bold enough to
-be seen by the humblest _engagé_ at the farthest end of the great
+be seen by the humblest _engagÃ©_ at the farthest end of the great
 hall, the whole number of the Company's trading posts from Hudson's
 Bay to the Pacific Ocean, from Sault Ste. Marie to Athabasca and the
 Great Slave Lake. Many a time and oft while the feast was at its
@@ -14984,7 +14949,7 @@ were encamped together in the open, holding high revel. They hailed
 from all over the globe, England, Ireland, Scotland, France, Germany,
 Italy, Denmark, Sweden, Holland, Switzerland, America, the African
 Gold Coast, the Sandwich Islands, Bengal, Canada, with Creoles,
-various tribes of Indians, and a mixed progeny of Bois-Brulés or
+various tribes of Indians, and a mixed progeny of Bois-BrulÃ©s or
 half-breeds! "Here," cries one trader, "were congregated on the shores
 of the inland sea, within the walls of Fort William, Episcopalians,
 Presbyterians, Methodists, Sun-worshippers, men from all parts of the
@@ -15146,7 +15111,7 @@ month of May arrived he was ready to take up his journey to the West.
 
 FOOTNOTES:
 
-[99] There is preserved a letter from the leader of the Bois-Brulés,
+[99] There is preserved a letter from the leader of the Bois-BrulÃ©s,
 written to one of the partners. It bears date of 13th of March, 1816,
 and runs as follows:--
 
@@ -15156,10 +15121,10 @@ and runs as follows:--
      very bad hand at writing letters I trust to your generosity. I
      am yet safe and sound, thank God! For I believe it is more than
      Colin Robertson, or any of his suit dare to offer the least
-     insult to any of the Bois-Brulés, although Robertson made use
+     insult to any of the Bois-BrulÃ©s, although Robertson made use
      of some expressions which I hope he shall swallow in the
      spring; he shall see that it is neither fifteen, thirty nor
-     fifty of your best horsemen can make the Bois-Brulés bow to
+     fifty of your best horsemen can make the Bois-BrulÃ©s bow to
      him. Our people of Fort des Prairies and English River are all
      to be here in the spring. It is hoped we shall come off with
      flying colours, and never to see any of them again in the
@@ -15179,7 +15144,7 @@ and runs as follows:--
                Your most obedient humble servant,
                     CUTHBERT GRANT.
 
-     J. D. CAMERON, ESQ.
+     J.Â D. CAMERON, ESQ.
 
 [100] This messenger, Lagimoniere by name, was waylaid and robbed by
 the North-Westers. He had previously made a hazardous winter journey
@@ -15201,7 +15166,7 @@ Robertson started for York Factory in a boat, taking Duncan Cameron a
 prisoner, he insultingly hoisted a pemmican sack instead of the
 British flag.
 
-[102] The route taken by the Bois-Brulés was along the edge of the
+[102] The route taken by the Bois-BrulÃ©s was along the edge of the
 swamps, about two miles out on the prairie from Fort Douglas, and from
 that point gradually drawing nearer to the main highway, which is now
 the northern continuation of Winnipeg's Main street, until it effected
@@ -15212,7 +15177,7 @@ Creek.
 
 [103] Their being painted and disguised, forms a very material fact,
 because it shows a premeditation to commit hostilities. It was not the
-custom of the Indians or Bois-Brulés to paint themselves, except on
+custom of the Indians or Bois-BrulÃ©s to paint themselves, except on
 warlike occasions. Seeing this party of horsemen were proceeding
 towards the settlement, Semple directed about twenty men to follow him
 in the direction they had taken to ascertain what was their object.
@@ -15460,7 +15425,7 @@ suffering from a severe wound in the head, was to escape from his
 captors. The nearest North-West post was distant about five hundred
 miles as the crow flies, but this circumstance had little restraining
 power upon his project. Two of his French-Canadian companions,
-Turcotte and Lépine, endeavoured to dissuade him, but without success;
+Turcotte and LÃ©pine, endeavoured to dissuade him, but without success;
 and at length they consented to participate in the escape should it be
 possible to elude the vigilance of their captors. They succeeded in
 doing this on the 30th September; launched themselves in an old canoe,
@@ -15564,9 +15529,9 @@ in the capture of Fort William. The Earl had also several civil suits
 entered against him, one of which was by William Smith, the constable
 whom he ejected from Fort William, "taking hold of him and pushing him
 out of doors, and afterwards keeping him in close custody in the fort,
-under a military guard." The constable got a verdict of £500 damages
+under a military guard." The constable got a verdict of Â£500 damages
 against the Earl. Daniel McKenzie also entered suit against Lord
-Selkirk, and received a verdict of £1,500.
+Selkirk, and received a verdict of Â£1,500.
 
 [Sidenote: Prosperity at Red River.]
 
@@ -15677,8 +15642,8 @@ The chief factors were to superintend the business of the Company at
 their respective stations, while the chief traders under them were to
 conduct the commerce with the Indians. The third class was the clerks,
 who were promoted to factorships and traderships, according to good
-conduct and seniority, but whose clerical salaries ranged from £20 to
-£100 per annum. The chief factors and traders, who wintered in the
+conduct and seniority, but whose clerical salaries ranged from Â£20 to
+Â£100 per annum. The chief factors and traders, who wintered in the
 interior, were granted, in addition to their share of profits, certain
 personal necessaries free of cost. They were not, however, permitted
 to carry on any private trade on their own account with the Indians.
@@ -15733,8 +15698,8 @@ is no matter whether he was or was not a governor, or what he was
 called, or called himself, he is not to be murdered, though he was not
 a governor."
 
-[108] "Ses postes," says Senator Masson, "avient été pillés et
-devastés; ses exportatiors considerablement sédintes." On the other
+[108] "Ses postes," says Senator Masson, "avient Ã©tÃ© pillÃ©s et
+devastÃ©s; ses exportatiors considerablement sÃ©dintes." On the other
 hand, he adds, these losses were partly compensated for by the high
 prices secured in England for their furs.
 
@@ -15864,7 +15829,7 @@ Mountains and the Pacific. It maintained six permanent establishments
 on the coasts, sixteen in the interior, and several movable posts and
 migratory brigades. By 1835 it had a fleet of six armed vessels, one
 of them propelled by steam, on the Pacific. Fort Vancouver, its
-principal _entrepôt_ on the Columbia River, was surrounded by large
+principal _entrepÃ´t_ on the Columbia River, was surrounded by large
 pasture and grain farms, maintaining large herds of horses and cattle,
 and was a profitable and growing establishment.
 
@@ -16003,15 +15968,15 @@ the territory in question. The matter was brought up at several
 sessions of Congress, and the utmost was done by such legislators as
 Floyd and Benton to flog it into an active issue. It was claimed that
 "the United States, through Spain, France and her own establishments,
-had the undisputed sovereignty of the coast from latitude 60° down to
-36°." A bill was introduced for the occupation of the Columbia, grants
+had the undisputed sovereignty of the coast from latitude 60Â° down to
+36Â°." A bill was introduced for the occupation of the Columbia, grants
 of lands to settlers, and regulation of Indian affairs. But the
 Government was by no means so sure of the wisdom of such a proceeding;
 the bill was repeatedly shelved. The restoration of Fort George
 (Astoria) by the British was one of the strong arguments used.
 
 In the meanwhile Russia had declared that the north Pacific coast down
-to latitude 51° belonged to her exclusively. All foreign vessels were
+to latitude 51Â° belonged to her exclusively. All foreign vessels were
 prohibited from approaching within a hundred Italian miles of any part
 of the coast. America protested, and between 1821 and 1824
 negotiations were carried on between the two powers.
@@ -16021,16 +15986,16 @@ negotiations were carried on between the two powers.
 Russia flatly asserted that the boundary question was one between
 herself and Great Britain, with which the Americans had no legitimate
 concern; and offered proofs that the treaty with Spain gave the United
-States a right only to territory south of 42°. A conclusion was,
+States a right only to territory south of 42Â°. A conclusion was,
 however, reached in the Treaty of 1824, by which the boundary was
-fixed at 54° 40', beyond which neither nation was to found any
+fixed at 54Â° 40', beyond which neither nation was to found any
 establishment, or to resort, without permission; while for a period of
 ten years both nations were to have free access for trade and fishery
 to each other's territory.
 
 In the following year was concluded a treaty between Russia and Great
 Britain,[114] by which the former again relinquished her claim not
-only to the region below latitude 54° 40', but to the vast interior
+only to the region below latitude 54Â° 40', but to the vast interior
 occupied by the Company up to the Frozen Ocean. No objection to this
 was urged by America, although some of her statesmen sought to take a
 hand in the matter, and proposed a joint conference. Great Britain's
@@ -16149,7 +16114,7 @@ was consequently nothing to do but to return.
 The Company was indignant at this outrage. The forts it had already
 built, together with the cost of fitting out the _Dryad_ and other
 vessels, besides a vast quantity of provisions and perishable
-merchandise sent into that country, had amounted to £20,000 sterling.
+merchandise sent into that country, had amounted to Â£20,000 sterling.
 The Emperor had granted the petition of the Russian Company; and both
 the British and the American Governments received notification that
 the clause in the treaty would terminate at twelve months' notice. But
@@ -16165,7 +16130,7 @@ year a convention was held in London to arrange the points long in
 dispute between the two companies. The matter was settled with
 despatch. The Hudson's Bay Company's claim for compensation was waived
 in return for a lease from the Russian Company of all their territory
-on the mainland lying between Cape Spencer and latitude 54° 40'. For
+on the mainland lying between Cape Spencer and latitude 54Â° 40'. For
 this lease the Company agreed to pay an annual rental of two thousand
 land-otter skins, and also to supply the Russians with provisions at
 moderate rates.
@@ -16214,9 +16179,9 @@ In 1832 the protracted absence of Captain (afterwards Sir John) Ross,
 who had sailed three years before for the Polar regions, became cause
 for anxiety. It was decided to send an expedition, commanded by
 Captain Back, in search of this explorer, and the Government granted
-£2,000 towards the expense, "it being understood that the Hudson's Bay
+Â£2,000 towards the expense, "it being understood that the Hudson's Bay
 Company will furnish the supplies and canoes free of charge, and that
-the remainder of the expense, which is estimated at £3,000, will be
+the remainder of the expense, which is estimated at Â£3,000, will be
 contributed by Captain Ross's friends." The expedition sailed, but
 after it had been absent one year, news reached them[117] that Ross
 had returned safe and sound in England; and Captain Back was ordered
@@ -16244,7 +16209,7 @@ Company which was fortunately atoned for in other directions.
 In this same year the Company, at the suggestion of Chief Factor
 McLaughlin, demanded and obtained of the Russian Fur Company a ten
 years' lease for trading purposes of a strip of land ten leagues wide,
-extending north from latitude 50° 40', and lying between British
+extending north from latitude 50Â° 40', and lying between British
 territory and the ocean, paying therefor two thousand east side land
 otter, worth thirty-two shillings and sixpence each. Statesmen in
 England marvelled at this arrangement, wondering why the Company
@@ -16319,7 +16284,7 @@ coast. The Company had accepted his offer, and wrote to that effect,
 but the letter arrived too late. The same mail also contained the news
 that the Royal Geographical Society, in view of the success which had
 attended his first expedition, had awarded him its gold medal; while
-the British Government had bestowed on him a pension of £100 sterling
+the British Government had bestowed on him a pension of Â£100 sterling
 per annum. Simpson's later discoveries far excelled those he had made
 in 1837, and no doubt the honours accorded him would have been very
 great; but in 1840, while travelling, about three days' journey from
@@ -16389,7 +16354,7 @@ different parts of the country, grist mills, saw mills, tanneries,
 fisheries, etc. From its posts on the Pacific it exported flour,
 grain, beef, pork, and butter, to the Russian settlements; lumber and
 fish to the Sandwich Islands; hides and wool to England. It opened the
-coal mines at Nanaimo, after an unremunerative expenditure of £25,000
+coal mines at Nanaimo, after an unremunerative expenditure of Â£25,000
 in seeking coal at Fort Rupert.
 
 [Sidenote: Agricultural and mercantile enterprise.]
@@ -16404,7 +16369,7 @@ and better ploughmen than the Canadians or Ranakes," to whom,
 nevertheless, they gave freely of their women as wives, a circumstance
 which tended to promote good behaviour amongst the medley throng of
 Company's servants. Such natives were treated with all fairness, and
-paid wages as high as the other labourers, usually from £17 to £25 per
+paid wages as high as the other labourers, usually from Â£17 to Â£25 per
 annum.
 
 The Company became banker for the thousands who thrived by hunting,
@@ -16444,7 +16409,7 @@ River."
 Crown with a capital of two hundred and sixty thousand pounds
 sterling. It had a large commerce with Northern China which did not
 deal with Canton; and it was in the northern part of the empire that
-the consumption of furs was greatest. Canton was merely the _entrepôt_
+the consumption of furs was greatest. Canton was merely the _entrepÃ´t_
 where furs were received for distribution throughout China.
 
 [116] From Joseph Berens, Esq., the Governor of the Hudson's Bay
@@ -16711,7 +16676,7 @@ were found at a point a short distance to the north-west of the Great
 Fish River. To prove their assertion the Esquimaux produced various
 articles which were known to have belonged to the ill-fated explorer
 and his party. The Government having previously offered a reward of
-£10,000 "to any party, or parties who, in the judgment of the Board of
+Â£10,000 "to any party, or parties who, in the judgment of the Board of
 Admiralty, shall, by virtue of his or her efforts, first succeed in
 ascertaining" the fate of the missing expedition, Dr. Rae laid claim
 to and obtained this reward. Another expedition under Anderson and
@@ -16965,7 +16930,7 @@ organized to take over the trading-posts, the fleet of ships, the
 stock of goods, and the other assets, rights and privileges affecting
 trade. Such a company, it was figured, would pay a rental (redeemable
 over a term of years if necessary) of three or three and one-half per
-cent, on £800,000, leaving only £700,000 as the value of a territory
+cent, on Â£800,000, leaving only Â£700,000 as the value of a territory
 bigger than Russia in Europe. Such a company would have to raise
 additional capital of its own to modernise its business, to improve
 the means of intercourse between its posts, and to cheapen and
@@ -16973,9 +16938,9 @@ expedite the transport to and fro of its merchandise. It was pointed
 out that a land company could be organized in England, Canada and
 America which, on a similar principle of redemption rental, might take
 over the lands, leaving a reserve of probably a fourth of the whole as
-the unpaid-for property of the Government, at the price of £700,000.
+the unpaid-for property of the Government, at the price of Â£700,000.
 "Were these proposals to succeed, then," said Mr. Watkin, "all the
-country would have to do was to lend £1,000,000 on such security as
+country would have to do was to lend Â£1,000,000 on such security as
 could be offered, ample in each case," in his opinion. But a condition
 was to be imposed if these plans were to be adopted. The Hudson's Bay
 territory must be erected into a Crown colony like British Columbia,
@@ -17066,7 +17031,7 @@ at Hudson's Bay House.
 "Mr. Roberts told him many odd things," he says; "one was, that the
 Company had had a freehold farm on the site of the present City of San
 Francisco of one thousand acres, and had sold it just before the gold
-discoveries for £1,000, because two factors quarrelled over it. I
+discoveries for Â£1,000, because two factors quarrelled over it. I
 learnt a great deal of the inside of the affair, and got some glimpses
 of the competing North-West Company, amalgamated by Mr. Edward Ellice,
 its chief mover, many years agone, with the Hudson's Bay Company.
@@ -17081,7 +17046,7 @@ In spite of the Duke's indisposition, he expressed the greatest
 interest in the progress of the negotiations. Yet the prospect of
 Government aid was now remote. Two ways were open to raise the money
 for a purchase of the Company's rights--to secure the names and
-support of fifteen persons, millionaires, for £100,000 each; the other
+support of fifteen persons, millionaires, for Â£100,000 each; the other
 to hand the proposed purchase over to the newly-organized
 International Finance Association, who were eager to find some
 important enterprise to put before the public. The first method seemed
@@ -17172,7 +17137,7 @@ I hope you and he will be able to bring this concession to some
 practical issue.
 
 "I was quite aware of the willingness of the Company to _sell_ their
-_whole_ rights for some such sum as £1,500,000. I ascertained the fact
+_whole_ rights for some such sum as Â£1,500,000. I ascertained the fact
 two months ago and alluded to it in the House of Lords in my reply to
 a motion by Lord Donoughmore. I cannot, however, view the proposal in
 so favourable a light as you do. There would be no immediate or
@@ -17232,7 +17197,7 @@ No sooner had the papers been signed, and the million and a half
 sterling paid over, than misgivings seem to have seized the minds of
 those directly interested. Yet, on their behalf, it was urged that the
 Company's posts and hunting grounds still remained. That the factors
-and traders would be as well off under the new _régime_ as the
+and traders would be as well off under the new _rÃ©gime_ as the
 old--that the mere change of one body of shareholders for another
 could affect them nothing--that, in fact, they would really benefit by
 having men of newer ideas and a more progressive spirit.
@@ -17292,32 +17257,32 @@ consent to the abrogation of the Deed Poll. As regarded the shares
 held in retirement, some of the interests had nearly run out and none
 of the parties had any voice in the business. The value of a
 (one-eighty-fifth) share was ascertained to be (on the average of the
-previous thirteen "outfits") about £408, at which rate a chief
-factor's retired interest would amount to £3,264, and a chief trader's
-to £1,632. Adding the customary year's furlough on retiring, a
-factor's retired allowance would be £4,080, and a trader's £2,040. On
-such a scale of commutation it would cost the Company £114,500 to buy
+previous thirteen "outfits") about Â£408, at which rate a chief
+factor's retired interest would amount to Â£3,264, and a chief trader's
+to Â£1,632. Adding the customary year's furlough on retiring, a
+factor's retired allowance would be Â£4,080, and a trader's Â£2,040. On
+such a scale of commutation it would cost the Company Â£114,500 to buy
 out its officers.
 
 As a set-off to this outlay Governor Dallas suggested a substantial
 reduction in salaries. Under the then existing organization the pay of
-officers in the service was £2,000 to the Governor-in-Chief, £16,000
-amongst sixteen chief factors, £14,000 to thirty-five chief traders,
-and £10,000 to the clerks, a total officers' pay-roll of £38,000. He
+officers in the service was Â£2,000 to the Governor-in-Chief, Â£16,000
+amongst sixteen chief factors, Â£14,000 to thirty-five chief traders,
+and Â£10,000 to the clerks, a total officers' pay-roll of Â£38,000. He
 proposed to cut this down as follows:
 
-     Governor-in-Chief                       £2,000
+     Governor-in-Chief                       Â£2,000
      Lieutenant-Governor                      1,250
-     Four Councillors at £800                 3,200
-     Twenty-five chief traders at £300        7,500
+     Four Councillors at Â£800                 3,200
+     Twenty-five chief traders at Â£300        7,500
      One hundred clerks at various salaries  10,000
                                              ------
-                                            £23,950
+                                            Â£23,950
 
 But Sir Edmund and his colleagues thought otherwise. The wintering
 partners were not yet to reap any profit from the sale of the
 Company's assets. The Deed Poll remained in full force until 1871,
-when they were paid £107,055 out of the money received from Canada for
+when they were paid Â£107,055 out of the money received from Canada for
 Rupert's Land and the North-West.
 
 [Sidenote: Threatened Deadlock in Red River Settlement.]
@@ -17396,11 +17361,11 @@ and 5th of April, 1864, he formulated the appended proposals:--
      rights.
 
      2. To receive one shilling for every acre sold by the Crown but
-     limited to £150,000 in all, and to fifty years in duration,
+     limited to Â£150,000 in all, and to fifty years in duration,
      whether or not the receipts attained that amount.
 
      3. To receive one-fourth of any gold revenue, but limited to
-     £100,000 in all, and to fifty years in duration.
+     Â£100,000 in all, and to fifty years in duration.
 
      4. To have one square mile of adjacent land for every lineal
      mile constructed of road and telegraph to British Columbia.
@@ -17411,7 +17376,7 @@ These proposals were carefully considered by Sir Edmund Head and his
 colleagues, and it was decided at a meeting on the 13th of April to
 accept them, subject to certain alterations. It was urged that the
 amount of payments within fifty years should either not be limited or
-else placed at the sum of £1,000,000 sterling, instead of a quarter of
+else placed at the sum of Â£1,000,000 sterling, instead of a quarter of
 that sum. The Company also suggested that a grant be made to it of
 five thousand acres of wild land for every fifty thousand acres sold
 by the Crown.
@@ -17421,7 +17386,7 @@ Colonial Secretaryship by Mr. Cardwell, who on the 6th of June wrote
 to say that he could not entertain the amendments of the Company. For
 several months nothing was done, but in December the Honourable
 Adventurers again met and again showed their desire for an amicable
-and reasonable arrangement. They offered to accept £1,000,000 for the
+and reasonable arrangement. They offered to accept Â£1,000,000 for the
 territory which they then defined, and which was substantially in
 extent the whole region granted them in the Charter of Charles II. In
 1865 the Hon. George Brown went to England to come to terms over the
@@ -17431,7 +17396,7 @@ proposed transfer, but without success.
 
 The charter of the Russian Company was about to expire. It had
 underlet to the Hudson's Bay Company all its franchise on the mainland
-between 54° 40' and Mount St Elias; and now it was proposed that an
+between 54Â° 40' and Mount St Elias; and now it was proposed that an
 American Company, holding direct from the Russian Government, should
 be substituted, and it seemed to the Americans a good opportunity to
 organize a fur-trading company to trade between the States and the
@@ -17510,7 +17475,7 @@ North-West:--
 
 In the following year a delegation to arrange the terms for the
 acquisition by Canada of Rupert's Land and the North-West Territory
-arrived in England. It consisted of Sir George Étienne Cartier and Mr.
+arrived in England. It consisted of Sir George Ã‰tienne Cartier and Mr.
 William McDougall. On presenting themselves at the Colonial Office
 they were invited by the Duke of Buckingham and Chandos, then
 Secretary of State for the Colonies, to visit him at Stowe "for the
@@ -17594,7 +17559,7 @@ proposed it decided to accept.
      America, not comprised in Rupert's Land, Canada, or British
      Columbia.
 
-     2. Canada is to pay to the Company £300,000 when Rupert's Land
+     2. Canada is to pay to the Company Â£300,000 when Rupert's Land
      is transferred to the Dominion of Canada.
 
      3. The Company may, within twelve months of the surrender,
@@ -17667,7 +17632,7 @@ he set out on his duties surveying parties had been busy in the Red
 River settlement, laying out townships and instituting an extended
 series of surveys.
 
-[Sidenote: Forlorn case of the Métis.]
+[Sidenote: Forlorn case of the MÃ©tis.]
 
 In order to be in the place of his government when by the Queen's
 Proclamation it should become a portion of the Dominion of Canada,
@@ -17681,14 +17646,14 @@ appointed by the Dominion and planned a resistance to all authority
 emanating from the same source. They assembled in large numbers, and,
 after fortifying portions of the road between Pembina and Fort Garry,
 had taken possession of the latter post. Upon consideration of the
-case of these wild and ignorant Métis, it is difficult to withhold
+case of these wild and ignorant MÃ©tis, it is difficult to withhold
 from them sympathy. Settled government, forms of law, state duty,
 exactions of citizenship, the sacrifices and burdens of urban
 civilization--of these he knew but dimly, and held them in a vague
 horror. He knew that men lived and ground out their lives in cities
 afar off, and that by means of their wealth they possessed power; that
 they had cast envious eyes on the hunting-grounds of the Indian and
-his half-brother the Métis; that they sought to wrest him from his
+his half-brother the MÃ©tis; that they sought to wrest him from his
 lands and mark it off into town lots, people his beloved prairies and
 exterminate his race. They must mean him ill or they would not work in
 such a silent, stealthy fashion to dispossess him and drive him
@@ -17702,12 +17667,12 @@ should arise, seize his rude weapons, and prepare for war?
 
 It is true the insurrection of 1869-70 could have been averted. It
 would have been easy, through an agent of tact and eloquence, to have
-dispelled the illusions which had taken possession of the Métis, and
+dispelled the illusions which had taken possession of the MÃ©tis, and
 to have restored confidence as to the policy of Canada. But was it the
 Hudson's Bay Company's duty to enlighten the aggrieved inhabitants?
 The Company who had been bullied and badgered and threatened with
 confiscation unless it agreed to a renunciation of its rights? Was it
-the fault of the Company that several thousand wild Métis children of
+the fault of the Company that several thousand wild MÃ©tis children of
 the wilderness, passionately attached to the old order of things,
 were in their hearts loyal to the Company, which fed and clothed and
 administered law to them?[128]
@@ -17751,8 +17716,8 @@ the task of presenting their claims. The London shareholders were by
 no means immediately acquiescent. But although Sir Stafford Northcote
 presided over some turbulent meetings in Fenchurch Street, the claims
 of the "wintering partners" were ultimately recognized in the only
-manner possible. Out of the £300,000 paid by the Dominion, the sum of
-£107,000 was divided amongst the officers for the relinquishment of
+manner possible. Out of the Â£300,000 paid by the Dominion, the sum of
+Â£107,000 was divided amongst the officers for the relinquishment of
 their claims.
 
 The Governor of the Company, in his report to the shareholders in
@@ -17825,7 +17790,7 @@ responsible for keeping order in the territory."--_Governor Dallas._
 [128] "It is an undoubted fact," remarks General Sir William Butler,
 "that warning had been given to the Dominion Government of the state
 of feeling amongst the half-breeds, and the phrase, 'they are only
-eaters of pemmican,' so cutting to the Métis, was thus first
+eaters of pemmican,' so cutting to the MÃ©tis, was thus first
 originated by a distinguished Canadian politician."
 
 [129] The distinguished philanthropist, the present Lord Strathcona
@@ -17952,7 +17917,7 @@ other simple pieces of furniture.
 
 Another post on the Pacific, of different character and greater
 strength, was Fort Walla Walla. It stood on the site of Fort Nez
-Percé, which was established when the Indians attacked Ogden's party
+PercÃ©, which was established when the Indians attacked Ogden's party
 of fur-traders here in 1818. The assault was repelled; but it was
 found necessary as a safeguard to rear this retreat. Fort Walla Walla
 was built of adobe and had a military establishment.
@@ -18222,7 +18187,7 @@ Bay Company, as follows:--
                              | 53 | Pigeon Lake              |   100
                              | 54 | Old White Mud Fort       |    50
                              |    |                          |
-     ENGLISH RIVER           | 55 | Isle à la Crosse         |    50
+     ENGLISH RIVER           | 55 | Isle Ã  la Crosse         |    50
                              | 56 | Rapid River              |     5
                              | 57 | Portage la Loche         |    20
                              | 58 | Green Lake               |   100
@@ -18952,7 +18917,7 @@ first, Russian, and afterwards American, aggression.
    "Atlantic Monthly."_)]
 
 The American purchase of Alaska from Russia in 1867 included a strip
-of the coast (_lisière de côté_) extending from north latitude 54° 40'
+of the coast (_lisiÃ¨re de cÃ´tÃ©_) extending from north latitude 54Â° 40'
 to the region of Mt. St. Elias. It was generally understood that this
 strip was separated from the British possessions by a mountain range
 (then believed to exist) parallel to the coast, as in event of this
@@ -18961,7 +18926,7 @@ range being too remote, by a line parallel to the windings
 from the same.
 
 There is nothing to lead one to suppose that the strip of coast was
-designed to be continuous from the parallel of 54° 40' north latitude.
+designed to be continuous from the parallel of 54Â° 40' north latitude.
 The recent great development of the North-West has shown the singular
 value of this strip, which the American authorities, ignoring the
 exact possessions of the Anglo-Russian treaty of 1825, has assumed to
@@ -18975,7 +18940,7 @@ claims, and more that can easily be invented, and _it is all but
 absolutely certain_ that although _by tradition and equity_ we should
 decline _to yield a foot of what we purchased_ in good faith from
 Russia, and which has become doubly valuable to us by settlement and
-exploration, our lisière will be promptly broken into fragments, and
+exploration, our lisiÃ¨re will be promptly broken into fragments, and
 with much show of impartiality divided between the two contracting
 parties." The italics are mine. Tradition and (the American idea of)
 equity are hardly equal to the language of a treaty negotiated so
@@ -19359,7 +19324,7 @@ INDEX.
 
      Bladen's description of the Commission, 205
 
-     Bois-Brulés, The, 383
+     Bois-BrulÃ©s, The, 383
 
      Bolingbroke's letter, 203
 
@@ -19490,7 +19455,7 @@ INDEX.
 
      Dablon, Father, 56
 
-     Dallas, A. E., succeeds Simpson as Governor, 473
+     Dallas, A.Â E., succeeds Simpson as Governor, 473
 
          "          Governor, issues a circular, 483
 
@@ -19524,7 +19489,7 @@ INDEX.
 
         "     Thomas, Earl of Selkirk, 399
 
-        "     T. M., Governor of Vancouver Island, 465
+        "     T.Â M., Governor of Vancouver Island, 465
 
      Drummond, Sir Gordon, Governor of Canada, 406
 
@@ -19540,7 +19505,7 @@ INDEX.
 
        "    builds a fort on Lake Nepigon, 127
 
-     Duqué, commander of _Profound_, 159
+     DuquÃ©, commander of _Profound_, 159
 
      Duquet, Sieur, King's attorney for Quebec, 58
 
@@ -19647,7 +19612,7 @@ INDEX.
 
      Gladstone, Opposition of Mr., 463
 
-     Godey, Captain, attaché to Lord Preston, 112
+     Godey, Captain, attachÃ© to Lord Preston, 112
 
      Gorst, Thomas, secretary to Governor Bailey, 72
 
@@ -19800,7 +19765,7 @@ INDEX.
 
      International Financial Association, 478
 
-     Isbister, A. K., 461
+     Isbister, A.Â K., 461
 
          "     Joseph, 258
 
@@ -19889,7 +19854,7 @@ INDEX.
 
      Maverick, Samuel, 33
 
-     Ménard, Réné, 27
+     MÃ©nard, RÃ©nÃ©, 27
 
      Meuron, Colonel De, 407
 
@@ -20038,9 +20003,9 @@ INDEX.
 
      _Pelican_, 158
 
-     Pelly, Sir J. H., 461
+     Pelly, Sir J.Â H., 461
 
-     Pérouse, Admiral, 321
+     PÃ©rouse, Admiral, 321
 
         "     La, in the Pacific, 344
 
@@ -20458,375 +20423,17 @@ Transcriber's note:
   Inconsistent hyphenation and spelling in the original document have
   been preserved. Obvious typographical errors have been corrected.
 
-  On page 55, arrét perhaps should be arrêt.
+  On page 55, arrÃ©t perhaps should be arrÃªt.
   On page 103, Englishmen perhaps should be Englishman.
   On page 166, Fort Anne perhaps should be Fort St. Anne.
   On page 222, Matonabbee perhaps should be Matonabee.
   On page 242, peace--leaving should perhaps be peace-loving.
   On page 279, Secretary Pitts should perhaps be Secretary Pitt.
-  On page 321, and in the Index, Admiral Pérouse should perhaps
-  be La Pérouse.
+  On page 321, and in the Index, Admiral PÃ©rouse should perhaps
+  be La PÃ©rouse.
   On page 411, Anglaise perhaps should be Anglais.
   On page 474, unrenumerative should perhaps be unremunerative.
-  The book uses both Medard and Médard.
-  The book uses both Serigny and Sérigny.
+  The book uses both Medard and MÃ©dard.
+  The book uses both Serigny and SÃ©rigny.
 
-
-
-***END OF THE PROJECT GUTENBERG EBOOK THE GREAT COMPANY***
-
-
-******* This file should be named 42279-8.txt or 42279-8.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/4/2/2/7/42279
-
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 42279 ***
